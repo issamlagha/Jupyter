@@ -1,0 +1,1021 @@
+station_name,wigos_station_identifier,wigos_station_identifier,facility_type,latitude,longitude,elevation,barometer_height,territory_name,WMO Region,Declared reporting status,Assessed reporting status,Last updated by
+BARIKA,0-12-0-05BATCN60471,60471,Land (fixed),35.34787,5.33993,460,,Algeria,1,Operational,Operational,Mohamed Mezred
+BENI OUNIF,0-12-0-08BECCN60577,60577,Land (fixed),32.05138,-1.26527,830,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+BOUIRA,0-12-0-10BRACN60417,60417,Land (fixed),36.36997,3.89507,555,,Algeria,1,Operational,Operational,Mohamed Mezred
+ALGER PORT,0-12-0-16ALGCN60369,60369,Land (fixed),36.77451,3.06243,9.3,,Algeria,1,Unknown,Operational,Abdelhadi HARROUZ
+BOUCHEGOUF,0-12-0-24GUECN60405,60405,Land (fixed),36.45821,7.70874,110,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+DELLYS,0-12-0-35BOUCN60387,60387,Land (fixed),36.89671,3.95527,6,,Algeria,1,Operational,Operational,Mohamed Mezred
+MILA,0-12-0-43MILCN60407,60407,Land (fixed),36.40082,6.32685,670,,Algeria,1,Operational,Operational,Mohamed Mezred
+AIN DEFLA,0-12-0-44DEFCN60429,60429,Land (fixed),36.26511,1.94852,292,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+JIJEL- ACHOUAT,0-20000-0-60351,60351,Land (fixed),36.79472,5.87722,8,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+JIJEL-PORT,0-20000-0-60353,60353,Land (fixed),36.8166666667,5.8833333333,2,,Algeria,1,Closed,Unknown,Mohamed Mezred
+SKIKDA,0-20000-0-60355,60355,Land (fixed),36.88178,6.93503,2,,Algeria,1,Operational,Operational,Mohamed Mezred
+ANNABA,0-20000-0-60360,60360,Land (fixed),36.822222,7.8025,3,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+TARF,0-20000-0-60368,60368,Land (fixed),36.75463,8.07933,3,,Algeria,1,Operational,Operational,Mohamed Mezred
+KOUBA,0-20000-0-60370,60370,Land (fixed),36.7166666667,3.1,84,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+OUED KORICHE,0-20000-0-60371,60371,Land (fixed),36.7833333333,3.0333333333,12,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+BOUZAREAH,0-20000-0-60372,60372,Land (fixed),36.7833333333,3,296,,Algeria,1,Operational,Silent,Mohamed Mezred
+BORDJ EL BAHRI,0-20000-0-60376,60376,Land (fixed),36.7833333333,3.25,16,,Algeria,1,Operational,Silent,Mohamed Mezred
+REGHAIA,0-20000-0-60379,60379,Land (fixed),36.7666666667,3.3333333333,4,,Algeria,1,Operational,Silent,Mohamed Mezred
+TESSALA EL MERDJA,0-20000-0-60380,60380,Land (fixed),36.6166666667,2.9166666667,22,,Algeria,1,Operational,Silent,Mohamed Mezred
+EL HARRACH,0-20000-0-60381,60381,Land (fixed),36.7166666667,3.15,51,,Algeria,1,Operational,Silent,Mohamed Mezred
+DAR-EL-BEIDA,0-20000-0-60390,60390,Land (fixed),36.68993,3.21662,25,,Algeria,1,Operational,Operational,Mohamed Mezred
+DAR EL BEIDA VILLE,0-20000-0-60393,60393,Land (fixed),36.7,3.2,30,,Algeria,1,Operational,Silent,Mohamed Mezred
+BARAKI,0-20000-0-60394,60394,Land (fixed),36.6833333333,3.1,32,,Algeria,1,Operational,Silent,Mohamed Mezred
+TIZI-OUZOU,0-20000-0-60395,60395,Land (fixed),36.72421,4.01861,153,,Algeria,1,Operational,Operational,Mohamed Mezred
+BEJAIA-AEROPORT,0-20000-0-60402,60402,Land (fixed),36.7166666667,5.0666666667,1.76,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+GUELMA,0-20000-0-60403,60403,Land (fixed),36.45641,7.47944,227,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+TENES,0-20000-0-60410,60410,Land (fixed),36.51415,1.30711,17,,Algeria,1,Operational,Operational,Mohamed Mezred
+AIN-BESSAM,0-20000-0-60415,60415,Land (fixed),36.2846,3.68946,748,,Algeria,1,Operational,Operational,Mohamed Mezred
+CONSTANTINE,0-20000-0-60419,60419,Land (fixed),36.2778,6.62832,685.2,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+OUM EL BOUAGHI,0-20000-0-60421,60421,Land (fixed),35.8666666667,7.13027,889,,Algeria,1,Operational,Operational,Mohamed Mezred
+SOUK AHRAS,0-20000-0-60423,60423,Land (fixed),36.2975,7.92277,860,,Algeria,1,Operational,Operational,Mohamed Mezred
+CHLEF,0-20000-0-60425,60425,Land (fixed),36.21635,1.3217,159,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+MILIANA,0-20000-0-60430,60430,Land (fixed),36.30582,2.2284,715,,Algeria,1,Operational,Operational,Mohamed Mezred
+MEDEA,0-20000-0-60437,60437,Land (fixed),36.2811,2.73155,1030,,Algeria,1,Operational,Operational,Mohamed Mezred
+BORDJ-BOU-ARRERIDJ,0-20000-0-60444,60444,Land (fixed),36.06752,4.79452,955,,Algeria,1,Operational,Operational,Madjid Aberkane
+SETIF/AIN ARNAT,0-20000-0-60445,60445,Land (fixed),36.1666666667,5.3166666667,1009,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+ARZEW,0-20000-0-60452,60452,Land (fixed),35.81688,-0.26837,3,,Algeria,1,Operational,Operational,Mohamed Mezred
+MOSTAGANEM,0-20000-0-60457,60457,Land (fixed),35.91166,0.11027,137,,Algeria,1,Operational,Operational,Mohamed Mezred
+ORAN-PORT,0-20000-0-60461,60461,Land (fixed),35.71055,-0.65305,28,,Algeria,1,Operational,Operational,Madjid Aberkane
+M'SILA,0-20000-0-60467,60467,Land (fixed),35.65098,4.49813,441,,Algeria,1,Operational,Operational,Mohamed Mezred
+BATNA,0-20000-0-60468,60468,Land (fixed),35.76083,6.31972,821.29,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+TEBESSA,0-20000-0-60475,60475,Land (fixed),35.42861,8.11527,814,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+KHENCHELLA,0-20000-0-60476,60476,Land (fixed),35.4666666667,7.0833333333,983,,Algeria,1,Operational,Operational,Mohamed Mezred
+ORAN-SENIA,"0-20000-0-60490,0-12-20000-60490",60490,Land (fixed),35.63111,-0.60388,90,,Algeria,1,Operational,Operational,Mohamed Mezred
+MASCARA-GHRISS,0-20000-0-60507,60507,Land (fixed),35.20666,0.1525,511,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+TIARET,0-20000-0-60511,60511,Land (fixed),35.34542,1.46792,977,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+KSAR CHELLALA,0-20000-0-60514,60514,Land (fixed),35.25222,2.29611,800,,Algeria,1,Operational,Operational,Mohamed Mezred
+BOU-SAADA,0-20000-0-60515,60515,Land (fixed),35.3333333333,4.2,459,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+GHAZAOUET,0-20000-0-60517,60517,Land (fixed),35.09807,-1.86335,20,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+BENI-SAF,0-20000-0-60518,60518,Land (fixed),35.30099,-1.39514,68,,Algeria,1,Operational,Operational,Mohamed Mezred
+SIDI-BEL-ABBES,0-20000-0-60520,60520,Land (fixed),35.17388,-0.59527,482,,Algeria,1,Operational,Operational,Mohamed Mezred
+MAGHNIA,0-20000-0-60522,60522,Land (fixed),34.81143,-1.78242,427,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+BISKRA,0-20000-0-60525,60525,Land (fixed),34.8,5.7333333333,82,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+TLEMCEN-ZENATA,0-20000-0-60531,60531,Land (fixed),35.01888,-1.44472,246.1,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+DJELFA,0-20000-0-60535,60535,Land (fixed),34.65361,3.28138,1180,,Algeria,1,Operational,Operational,Mohamed Mezred
+SAIDA,0-20000-0-60536,60536,Land (fixed),34.89186,0.15774,750,,Algeria,1,Operational,Operational,Mohamed Mezred
+EL-KHEITER,0-20000-0-60540,60540,Land (fixed),34.15444,0.06464,1000,,Algeria,1,Operational,Unknown,Abdelhadi HARROUZ
+MECHERIA,0-20000-0-60549,60549,Land (fixed),33.54581,-0.23527,1123.2,,Algeria,1,Operational,Partly operational,Abdelhadi HARROUZ
+EL-BAYADH,0-20000-0-60550,60550,Land (fixed),33.71966,1.09484,1361,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+TOUGGOURT,0-20000-0-60555,60555,Land (fixed),33.07011,6.09208,87.1,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+NAAMA,0-20000-0-60557,60557,Land (fixed),33.26108,-0.31744,1166,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+EL-OUED,0-20000-0-60559,60559,Land (fixed),33.50618,6.78841,63,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+AIN-SEFRA,0-20000-0-60560,60560,Land (fixed),32.75197,-0.59401,1076,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+HASSIR'MEL,0-20000-0-60563,60563,Land (fixed),32.93416,3.30333,765,,Algeria,1,Operational,Operational,Madjid Aberkane
+GHARDAIA,0-20000-0-60566,60566,Land (fixed),32.38638,3.78361,466,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+BECHAR,0-20000-0-60571,60571,Land (fixed),31.65428,-2.25236,808.64,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+OUARGLA,"0-20000-0-60580,0-12-20000-60580",60580,Land (fixed),31.93641,5.41178,143.65,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+HASSI-MESSAOUD,0-20000-0-60581,60581,Land (fixed),31.65861,6.14138,140,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+KRECHBA,0-20000-0-60585,60585,Land (fixed),29.07161,2.20815,465.39,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+EL-GOLEA,0-20000-0-60590,60590,Land (fixed),30.57246,2.86803,397,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+HASSI KHEBBI,0-20000-0-60593,60593,Land (fixed),29.1666666667,-5.2333333333,565,,Algeria,1,Operational,Silent,
+TALMINIE,0-20000-0-60595,60595,Land (fixed),29.1666666667,-0.3,,,Algeria,1,Silent,Silent,Mohamed Mezred
+BENI-ABBES,0-20000-0-60602,60602,Land (fixed),30.12846,-2.14953,510,,Algeria,1,Operational,Partly operational,Madjid Aberkane
+RHOURD NOUSS,0-20000-0-60603,60603,Land (fixed),29.7352,6.71306,252,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+TABELBALA,0-20000-0-60605,60605,Land (fixed),29.4166666667,-3.25,550,,Algeria,1,Operational,Silent,Mohamed Mezred
+TIMIMOUN,0-20000-0-60607,60607,Land (fixed),29.24412,0.28385,312,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+IN-AMENAS,0-20000-0-60611,60611,Land (fixed),28.05294,9.63959,561,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+TIRIRINE,0-20000-0-60612,60612,Land (fixed),22.05,8.5833333333,770,,Algeria,1,Silent,Operational,Mohamed Mezred
+OUHANET,0-20000-0-60613,60613,Land (fixed),28.7,8.9333333333,610,,Algeria,1,Operational,Silent,
+TAMAZGUIDA,0-20000-0-60617,60617,Land (fixed),27.3166666667,3.7166666667,354,,Algeria,1,Closed,Unknown,Mohamed Mezred
+TAGUENTOUR,0-20000-0-60619,60619,Land (fixed),28.4666666667,2.5166666667,636,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+ADRAR,0-20000-0-60620,60620,Land (fixed),27.83718,-0.19364,279.23,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+MATRIOUENE,0-20000-0-60621,60621,Land (fixed),27.8666666667,1.1666666667,390,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+ADEB LERRACH,0-20000-0-60623,60623,Land (fixed),27.4,8.8333333333,521,,Algeria,1,Operational,Silent,Mohamed Mezred
+GARADJEBILET,0-20000-0-60624,60624,Land (fixed),26.75,-7.25,400,,Algeria,1,Operational,Silent,
+IN-SALAH,0-20000-0-60630,60630,Land (fixed),27.2537,2.51164,268,,Algeria,1,Operational,Operational,Mohamed Mezred
+IN ZIZA,0-20000-0-60633,60633,Land (fixed),23.2166666667,2.5833333333,443,,Algeria,1,Closed,Unknown,Mohamed Mezred
+TINFOUYE,0-20000-0-60639,60639,Land (fixed),28.43679,7.55148,472,,Algeria,1,Operational,Operational,Madjid Aberkane
+ILLIZI,0-20000-0-60640,60640,Land (fixed),26.71916,8.61722,542,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+REGGANE,0-20000-0-60645,60645,Land (fixed),26.7166666667,-0.1833333333,214,,Algeria,1,Operational,Silent,Mohamed Mezred
+AMGUID,0-20000-0-60650,60650,Land (fixed),26.4166666667,5.3666666667,614,,Algeria,1,Silent,Operational,Mohamed Mezred
+TINDOUF,0-20000-0-60656,60656,Land (fixed),27.7041,-8.1692,443,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+ARAK (60660-0),0-20000-0-60660,60660,Land (fixed),25.2666666667,3.7333333333,556,,Algeria,1,Operational,Silent,
+ABDENNIZI,0-20000-0-60661,60661,Land (fixed),25.2166666667,5.1166666667,800,,Algeria,1,Silent,Silent,Mohamed Mezred
+FADNOUNE,0-20000-0-60662,60662,Land (fixed),25.8166666667,8.1833333333,1291,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+MOULAY LAHCEN,0-20000-0-60663,60663,Land (fixed),24.7166666667,4.65,1054,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+BORDJ HAOUS,0-20000-0-60664,60664,Land (fixed),24.8333333333,8.3166666667,1104,,Algeria,1,Operational,Silent,Mohamed Mezred
+TINALKOUN,0-20000-0-60667,60667,Land (fixed),24.6,10.2166666667,719,,Algeria,1,Silent,Operational,Mohamed Mezred
+DJANET,0-20000-0-60670,60670,Land (fixed),24.28823,9.46766,968,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+MERTOUTEK,0-20000-0-60672,60672,Land (fixed),24.2166666667,5.5333333333,1343,,Algeria,1,Operational,Operational,Mohamed Mezred
+TADANTE,0-20000-0-60673,60673,Land (fixed),23.0333333333,7.8666666667,1179,,Algeria,1,Silent,Silent,Mohamed Mezred
+TAOUNDART,0-20000-0-60674,60674,Land (fixed),20.3833333333,2.4666666667,677,,Algeria,1,Closed,Unknown,Mohamed Mezred
+OUALLEN,0-20000-0-60675,60675,Land (fixed),23.4,1,358,,Algeria,1,Operational,Silent,Mohamed Mezred
+IN AZZANE,0-20000-0-60676,60676,Land (fixed),23.4833333333,11.2333333333,912,,Algeria,1,Operational,Silent,
+AFARA,0-20000-0-60677,60677,Land (fixed),25.3333333333,7.8,1240,,Algeria,1,Operational,Partly operational,
+ASSEKREM,0-20000-0-60679,60679,Land (fixed),23.26116,5.63115,2710,,Algeria,1,Operational,Partly operational,Mohamed Mezred
+TAMANRASSET,0-20000-0-60680,60680,Land (fixed),22.8253,5.45255,1372,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+OUED TAHAGGARET,0-20000-0-60681,60681,Land (fixed),21.6833333333,7.1333333333,573,,Algeria,1,Closed,Unknown,Mohamed Mezred
+TINTARABINE,0-20000-0-60682,60682,Land (fixed),23.1833333333,6.7666666667,1105,,Algeria,1,Silent,Silent,Mohamed Mezred
+BIDON 5,0-20000-0-60685,60685,Land (fixed),22.3166666667,1.1166666667,392,,Algeria,1,Silent,Operational,Mohamed Mezred
+BORDJ-BADJ-MOKHTAR,0-20000-0-60686,60686,Land (fixed),21.37609,0.93205,395,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+TIREK,0-20000-0-60688,60688,Land (fixed),21.5666666667,2.5833333333,561,,Algeria,1,Closed,Unknown,Mohamed Mezred
+TIMIAOUINI,0-20000-0-60689,60689,Land (fixed),20.4166666667,1.8,685,,Algeria,1,Operational,Silent,Mohamed Mezred
+IN-GUEZZAM,0-20000-0-60690,60690,Land (fixed),19.5655,5.75412,400,,Algeria,1,Operational,Operational,Abdelhadi HARROUZ
+ANESBARAKA,0-20000-0-60691,60691,Land (fixed),19.4333333333,4.65,477,,Algeria,1,Silent,Operational,Mohamed Mezred
+IN GUEZZAM,0-20000-0-60692,60692,Land (fixed),19.5666666667,5.75,401,,Algeria,1,Operational,Partly operational,Madjid Aberkane
+IN ATEI,0-20000-0-60693,60693,Land (fixed),20.5666666667,6.1166666667,471,,Algeria,1,Operational,Silent,Mohamed Mezred
+IN AZAOUA,0-20000-0-60694,60694,Land (fixed),20.9666666667,7.45,517,,Algeria,1,Silent,Operational,Mohamed Mezred
+TIN ZAOUATENE,0-20000-0-60695,60695,Land (fixed),19.9666666667,2.9833333333,,,Algeria,1,Silent,Silent,Mohamed Mezred
+BIHAC,0-20000-0-14528,14528,Land (fixed),44.807677,15.866654,244,,Bosnia and Herzegovina,6,Operational,Operational,Mirza Tahmaz
+SANSKI MOST,0-20000-0-14537,14537,Land (fixed),44.77095,16.676019,156,,Bosnia and Herzegovina,6,Operational,Partly operational,Mirza Tahmaz
+LIVNO,0-20000-0-14640,14640,Land (fixed),43.822593,17.001041,722,,Bosnia and Herzegovina,6,Operational,Partly operational,Mirza Tahmaz
+NOVI GRAD SYNOP,0-70-0-14535,14535,Land (fixed),45.05042,16.37733,122,,Bosnia and Herzegovina,6,Operational,Partly operational,Zeljko Ratkovic
+PRIJEDOR,0-70-0-14536,14536,Land (fixed),44.97193,16.71257,133,,Bosnia and Herzegovina,6,Operational,Partly operational,Zeljko Ratkovic
+Mrkonjic Grad synop,0-70-0-14545,14545,Land (fixed),44.41113,17.08355,570,,Bosnia and Herzegovina,6,Operational,Partly operational,Zeljko Ratkovic
+Goli Vrh,0-191-0-14238,14238,Land (fixed),45.6975,15.724444,166,,Croatia,6,Operational,Silent,HRV NMHS
+Monte Kope,0-191-0-14309,14309,Land (fixed),44.812222,13.8725,48,,Croatia,6,Operational,Unknown,Ines SRZIC
+Prijeboj,0-191-0-14335,14335,Land (fixed),44.831667,15.664444,704,,Croatia,6,Operational,Silent,Ines SRZIC
+RIJEKA/KOZALA,0-20000-0-14216,14216,Land (fixed),45.3369444444,14.4427777778,120,,Croatia,6,Operational,Operational,
+PARG,0-20000-0-14219,14219,Land (fixed),45.5936111111,14.6305555556,863,,Croatia,6,Operational,Operational,
+KARLOVAC,0-20000-0-14232,14232,Land (fixed),45.4936111111,15.565,110,,Croatia,6,Operational,Operational,
+KRAPINA,0-20000-0-14234,14234,Land (fixed),46.1377777778,15.8883333333,202,,Croatia,6,Operational,Partly operational,
+PUNTIJARKA,0-20000-0-14235,14235,Land (fixed),45.9075,15.9683333333,991,,Croatia,6,Operational,Partly operational,
+ZAGREB/GRIC,0-20000-0-14236,14236,Land (fixed),45.8144444444,15.9719444444,157,,Croatia,6,Operational,Partly operational,Nina Horat
+ZAGREB/MAKSIMIR,0-20000-0-14240,14240,Land (fixed),45.8219444444,16.0336111111,123,,Croatia,6,Operational,Partly operational,Ines SRZIC
+ZAGREB/PLESO,0-20000-0-14241,14241,Land (fixed),45.7291666667,16.0538888889,107,,Croatia,6,Operational,Partly operational,
+SISAK,0-20000-0-14244,14244,Land (fixed),45.4997222222,16.3666666667,98,,Croatia,6,Operational,Operational,
+VARAZDIN,0-20000-0-14246,14246,Land (fixed),46.2827777778,16.3638888889,167,,Croatia,6,Operational,Operational,
+KRIZEVCI,0-20000-0-14248,14248,Land (fixed),46.0288888889,16.5536111111,157,,Croatia,6,Operational,Operational,
+BJELOVAR,0-20000-0-14253,14253,Land (fixed),45.9097222222,16.8694444444,141,,Croatia,6,Operational,Operational,
+BILOGORA,0-20000-0-14256,14256,Land (fixed),45.8836111111,17.2002777778,262,,Croatia,6,Operational,Partly operational,
+DARUVAR,0-20000-0-14258,14258,Land (fixed),45.5913888889,17.21,153,,Croatia,6,Operational,Partly operational,
+PULA AERODROME,0-20000-0-14307,14307,Land (fixed),44.8963888889,13.9319444444,63,,Croatia,6,Operational,Partly operational,
+PAZIN,0-20000-0-14308,14308,Land (fixed),45.2408333333,13.9452777778,291,,Croatia,6,Operational,Operational,
+MALI LOSINJ,0-20000-0-14314,14314,Land (fixed),44.5325,14.4719444444,53,,Croatia,6,Operational,Partly operational,
+RIJEKA/OMISALJ,0-20000-0-14317,14317,Land (fixed),45.2238888889,14.5819444444,85,,Croatia,6,Operational,Operational,
+RAB,0-20000-0-14321,14321,Land (fixed),44.7555555556,14.7694444444,24,,Croatia,6,Operational,Operational,
+SENJ,0-20000-0-14323,14323,Land (fixed),44.9925,14.9033333333,26,,Croatia,6,Operational,Operational,
+ZAVIZAN,0-20000-0-14324,14324,Land (fixed),44.8147222222,14.9752777778,1594,,Croatia,6,Operational,Operational,
+OGULIN,0-20000-0-14328,14328,Land (fixed),45.2627777778,15.2222222222,328,,Croatia,6,Operational,Operational,
+GOSPIC,0-20000-0-14330,14330,Land (fixed),44.5505555556,15.3730555556,564,,Croatia,6,Operational,Operational,Ines SRZIC
+ZADAR/PUNTAMIKA,0-20000-0-14428,14428,Land (fixed),44.13,15.2058333333,5,,Croatia,6,Operational,Operational,
+ZADAR RS,0-20000-0-14430,14430,Land (fixed),44.0969444444,15.3402777778,78,,Croatia,6,Operational,Partly operational,
+ZADAR/ZEMUNIK,0-20000-0-14431,14431,Land (fixed),44.0969444444,15.3627777778,82,,Croatia,6,Operational,Partly operational,
+SIBENIK,0-20000-0-14438,14438,Land (fixed),43.7280555556,15.9063888889,77,,Croatia,6,Operational,Operational,
+KOMIZA,0-20000-0-14441,14441,Land (fixed),43.0483333333,16.0852777778,20,,Croatia,6,Operational,Partly operational,
+KNIN,0-20000-0-14442,14442,Land (fixed),44.0408333333,16.2069444444,255,,Croatia,6,Operational,Operational,
+PALAGRUZA,0-20000-0-14443,14443,Land (fixed),42.3922222222,16.2430555556,97,,Croatia,6,Operational,Partly operational,
+SPLIT/RESNIK,0-20000-0-14444,14444,Land (fixed),43.5394444444,16.3011111111,19,,Croatia,6,Operational,Partly operational,
+SPLIT/MARJAN,0-20000-0-14445,14445,Land (fixed),43.5083333333,16.4263888889,122,,Croatia,6,Operational,Partly operational,Jörg Klausen
+HVAR,0-20000-0-14447,14447,Land (fixed),43.1711111111,16.4369444444,20,,Croatia,6,Operational,Operational,
+LASTOVO,0-20000-0-14452,14452,Land (fixed),42.7683333333,16.9,186,,Croatia,6,Operational,Partly operational,
+MAKARSKA,0-20000-0-14454,14454,Land (fixed),43.2875,17.0197222222,49,,Croatia,6,Operational,Partly operational,
+POINTE DE CHASSIRON,0-20000-0-07314,07314,Land (fixed),46.0469444444,-1.4116666667,11,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+LA ROCHELLE AEROPORT ILE DE RE,0-20000-0-07316,07316,Land (fixed),46.1780555556,-1.1930555556,23,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+NIORT,0-20000-0-07330,07330,Land (fixed),46.3155555556,-0.4002777778,61,,France,6,Operational,Partly operational,"FRA,NCL,PYF,SPM NMHS"
+GUERET ST LAURENT,0-20000-0-07361,07361,Land (fixed),46.1755555556,1.9502777778,365,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+VICHY-CHARMEIL,0-20000-0-07374,07374,Land (fixed),46.1666666667,3.3986111111,249,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+SAINT-YAN,0-20000-0-07379,07379,Land (fixed),46.4083333333,4.0163888889,243,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+SAINT NIZIER-RADAR,0-20000-0-07381,07381,Land (fixed),46.0677777778,4.4452777778,908,,France,6,Operational,Unknown,
+MACON,0-20000-0-07385,07385,Land (fixed),46.2966666667,4.7986111111,222,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+COGNAC,0-20000-0-07412,07412,Land (fixed),45.665,-0.3158333333,31,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+LIMOGES-BELLEGARDE,0-20000-0-07434,07434,Land (fixed),45.861167,1.175,402,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+GREZES-RADAR,0-20000-0-07436,07436,Land (fixed),45.1044444444,1.3697222222,351,,France,6,Operational,Unknown,
+BRIVE,0-20000-0-07438,07438,Land (fixed),45.1480555556,1.4744444444,112,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+BRIVE SOUILLAC,0-20000-0-07439,07439,Land (fixed),45.036333,1.491667,295,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+CLERMONT-FERRAND,0-20000-0-07460,07460,Land (fixed),45.7869444444,3.1494444444,333,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+SEMBADEL-RADAR,0-20000-0-07461,07461,Land (fixed),45.2891666667,3.7094444444,1115,,France,6,Operational,Unknown,
+MOUCHEROTTE RADAR,0-20000-0-07468,07468,Land (fixed),45.1477777778,5.6394444444,1895,,France,6,Operational,Unknown,
+LE PUY-LOUDES,0-20000-0-07471,07471,Land (fixed),45.0744444444,3.7638888889,832,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+ST-ETIENNE BOUTHEON,0-20000-0-07475,07475,Land (fixed),45.5330555556,4.2933333333,404,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+LYON-BRON,0-20000-0-07480,07480,Land (fixed),45.7261111111,4.9377777778,201,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+LYON-ST EXUPERY,0-20000-0-07481,07481,Land (fixed),45.7263888889,5.0777777778,250,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+AMBERIEU,0-20000-0-07482,07482,Land (fixed),45.9763888889,5.3294444444,251,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+GRENOBLE-ST-GEOIRS,0-20000-0-07486,07486,Land (fixed),45.3638888889,5.3133333333,397,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+ANNECY-MEYTHET,0-20000-0-07490,07490,Land (fixed),45.928167,6.094,455,,France,6,Operational,Operational,Léa LABEUR
+CHAMBERY-AIX-LES-BAINS,0-20000-0-07491,07491,Land (fixed),45.6413888889,5.8780555556,237,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+BOURG ST-MAURICE,0-20000-0-07497,07497,Land (fixed),45.6127777778,6.7633333333,865,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+LEGE-CAP FERRET,0-20000-0-07500,07500,Land (fixed),44.6316666667,-1.2483333333,9,,France,6,Operational,Operational,Joel GUEUSQUIN
+CAZAUX,0-20000-0-07502,07502,Land (fixed),44.534667,-1.132,23,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+BISCAROSSE,0-20000-0-07503,07503,Land (fixed),44.4316666667,-1.2475,35,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+BORDEAUX MERIGNAC,0-20000-0-07510,07510,Land (fixed),44.8305555556,-0.6913888889,51,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+AGEN,0-20000-0-07524,07524,Land (fixed),44.1722222222,0.5947222222,62,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+BERGERAC,0-20000-0-07530,07530,Land (fixed),44.8230555556,0.5241666667,52,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+GOURDON,0-20000-0-07535,07535,Land (fixed),44.745,1.3966666667,260,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+MONTAUBAN,0-20000-0-07540,07540,Land (fixed),44.0280555556,1.3766666667,108,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+AURILLAC,0-20000-0-07549,07549,Land (fixed),44.8986111111,2.4211111111,639,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+SALLES LA SOURCE,0-20000-0-07552,07552,Land (fixed),44.4102777778,2.4825,582,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+MENDE,0-20000-0-07554,07554,Land (fixed),44.5336111111,3.4544444444,932,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+MILLAU,0-20000-0-07558,07558,Land (fixed),44.1186111111,3.0194444444,712,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+MONT AIGOUAL,0-20000-0-07560,07560,Land (fixed),44.1213888889,3.5813888889,1567,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+AVIGNON,0-20000-0-07563,07563,Land (fixed),43.9113888889,4.9025,38,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+BOLLENE-RADAR,0-20000-0-07569,07569,Land (fixed),44.3230555556,4.7622222222,309,,France,6,Operational,Unknown,
+LANAS SYN,0-20000-0-07570,07570,Land (fixed),44.537167,4.368167,265,,France,6,Operational,Partly operational,Joel GUEUSQUIN
+MONT-MAUREL RADAR,0-20000-0-07572,07572,Land (fixed),44.0127777778,6.5291666667,1772,,France,6,Operational,Unknown,
+MONTELIMAR,0-20000-0-07577,07577,Land (fixed),44.5811111111,4.7330555556,73,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+MONT-COLOMBIS RADAR,0-20000-0-07578,07578,Land (fixed),44.49611,6.22027,1724,,France,6,Operational,Unknown,Jean-Pierre AUBAGNAC
+ORANGE,0-20000-0-07579,07579,Land (fixed),44.1444444444,4.8611111111,60,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+CARPENTRAS,0-20000-0-07586,07586,Land (fixed),44.0830555556,5.0591666667,99,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+ST-AUBAN-SUR-DURANCE,0-20000-0-07588,07588,Land (fixed),44.0622222222,5.9897222222,459,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+EMBRUN,0-20000-0-07591,07591,Land (fixed),44.5655555556,6.5022222222,871,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+VILLAR SAINT PANCRACE,0-20000-0-07593,07593,Land (fixed),44.88033,6.640333,1310,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+POINTE DE SOCOA,0-20000-0-07600,07600,Land (fixed),43.3944444444,-1.6863888889,21,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+BIARRITZ-ANGLET,0-20000-0-07602,07602,Land (fixed),43.4694444444,-1.5344444444,75,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+DAX,0-20000-0-07603,07603,Land (fixed),43.6897222222,-1.07,33,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+MOMUY RADAR,0-20000-0-07606,07606,Land (fixed),43.6244444444,-0.6094444444,126,,France,6,Operational,Unknown,"FRA,NCL,PYF,SPM NMHS"
+MONT-DE-MARSAN,0-20000-0-07607,07607,Land (fixed),43.9097222222,-0.5002777778,62,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+PAU-UZEIN,0-20000-0-07610,07610,Land (fixed),43.385,-0.4163888889,188,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+TOULOUSE RW,0-20000-0-07618,07618,Land (fixed),43.5769444444,1.3744444444,158,,France,6,Operational,Silent,Jean-Pierre AUBAGNAC
+TARBES-OSSUN,0-20000-0-07621,07621,Land (fixed),43.1880555556,0,384,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+AUCH,0-20000-0-07622,07622,Land (fixed),43.6888888889,0.6011111111,125,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+SAINT GIRONS,0-20000-0-07627,07627,Land (fixed),43.0052777778,1.1069444444,419,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+MURET-LHERM,0-20000-0-07628,07628,Land (fixed),43.4513888889,1.2619444444,190,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+TOULOUSE RADAR,0-20000-0-07629,07629,Land (fixed),43.5744444444,1.3763888889,158,,France,6,Operational,Unknown,
+TOULOUSE BLAGNAC,0-20000-0-07630,07630,Land (fixed),43.6211111111,1.3788888889,152,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+ALBI,0-20000-0-07632,07632,Land (fixed),43.9147222222,2.1163888889,172,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+CARCASSONNE,0-20000-0-07635,07635,Land (fixed),43.2152777778,2.2955555556,132,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+MONTCLAR RADAR,0-20000-0-07637,07637,Land (fixed),43.9905555556,2.6097222222,667,,France,6,Operational,Unknown,
+BEZIERS-VIAS,0-20000-0-07638,07638,Land (fixed),43.3219444444,3.3527777778,17,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+SETE,0-20000-0-07641,07641,Land (fixed),43.3972222222,3.6922222222,80,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+MONTPELLIER,0-20000-0-07643,07643,Land (fixed),43.5769444444,3.9630555556,5,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+NIMES-COURBESSAC,0-20000-0-07645,07645,Land (fixed),43.8569444444,4.4063888889,60,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+NIMES GARONS,0-20000-0-07646,07646,Land (fixed),43.7594444444,4.4172222222,94,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+ISTRES,0-20000-0-07647,07647,Land (fixed),43.5230555556,4.9222222222,25,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+SALON DE PROVENCE,0-20000-0-07648,07648,Land (fixed),43.6036111111,5.1041666667,60,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+MARIGNANE,0-20000-0-07650,07650,Land (fixed),43.4377777778,5.2161111111,21,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+NIMES-RADAR,0-20000-0-07658,07658,Land (fixed),43.8061111111,4.5027777778,71,,France,6,Operational,Unknown,
+CAP CEPET,0-20000-0-07661,07661,Land (fixed),43.0794444444,5.9408333333,115,,France,6,Operational,Operational,Joel GUEUSQUIN
+LEUCATE,0-20000-0-07666,07666,Land (fixed),42.9183333333,3.0616666667,42,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+HYERES,0-20000-0-07667,07667,Land (fixed),43.0944444444,6.1463888889,4,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+COLLOBRIERES-RADAR,0-20000-0-07671,07671,Land (fixed),43.2166666667,6.3727777778,641,,France,6,Operational,Unknown,
+LE LUC,0-20000-0-07675,07675,Land (fixed),43.3830555556,6.3861111111,81,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+CANNES,0-20000-0-07684,07684,Land (fixed),43.5563888889,6.9505555556,4,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+NICE,0-20000-0-07690,07690,Land (fixed),43.6488888889,7.2088888889,4,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+VARS-MAYT RADAR,0-20000-0-07714,07714,Land (fixed),44.5875,6.6530555556,2575,,France,6,Operational,Unknown,
+OPOUL-RADAR,0-20000-0-07745,07745,Land (fixed),42.9183333333,2.865,702,,France,6,Operational,Unknown,
+PERPIGNAN,0-20000-0-07747,07747,Land (fixed),42.7372222222,2.8727777778,44,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+CAP BEAR,0-20000-0-07749,07749,Land (fixed),42.5166666667,3.135,82,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+ILE ROUSSE,0-20000-0-07753,07753,Land (fixed),42.6330555556,8.9227777778,142,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+CALVI,0-20000-0-07754,07754,Land (fixed),42.5294444444,8.7913888889,64,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+AJACCIO,0-20000-0-07761,07761,Land (fixed),41.9180555556,8.7927777778,6,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+SOLENZARA,0-20000-0-07765,07765,Land (fixed),41.9238888889,9.3972222222,9,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+CAP PERTUSATO,0-20000-0-07770,07770,Land (fixed),41.3747222222,9.1783333333,107,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+ALERIA RADAR,0-20000-0-07774,07774,Land (fixed),42.1297222222,9.4963888889,50,,France,6,Operational,Unknown,Léa LABEUR
+ALISTRO,0-20000-0-07775,07775,Land (fixed),42.2597222222,9.5413888889,65,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+FIGARI,0-20000-0-07780,07780,Land (fixed),41.5052777778,9.1036111111,27,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+CAP CORSE,0-20000-0-07785,07785,Land (fixed),43.0038888889,9.3594444444,72,,France,6,Operational,Partly operational,"FRA,NCL,PYF,SPM NMHS"
+BASTIA,0-20000-0-07790,07790,Land (fixed),42.5405555556,9.4852777778,8,,France,6,Operational,Operational,"FRA,NCL,PYF,SPM NMHS"
+OPME_VHF_COPDD,0-250-1002-07453,07453,Land (fixed),45.712718,3.090111,650,,France,6,Operational,Unknown,Joel GUEUSQUIN
+AULNAT_UHF_COPDD,0-250-1002-07462,07462,Land (fixed),45.79965,3.1514,330,,France,6,Unknown,Unknown,Joel GUEUSQUIN
+Nagykanizsa,"0-348-1-17809,0-20000-0-12925",12925,Land (fixed),46.456111,16.970556,138.8,,Hungary,6,Operational,Operational,Imre Szöll?si
+PASSO ROLLE,0-20000-0-16021,16021,Land (fixed),46.2977777778,11.7866666667,2004,,Italy,6,Operational,Partly operational,Piero Serra
+PAGANELLA,0-20000-0-16022,16022,Land (fixed),46.1597222222,11.0341666667,2125,,Italy,6,Operational,Operational,Piero Serra
+TRENTO,0-20000-0-16023,16023,Land (fixed),46.0202777778,11.1266666667,188,,Italy,6,Operational,Silent,
+AVIANO (16036-0),0-20000-0-16036,16036,Land (fixed),46.0286111111,12.6033333333,126,,Italy,6,Operational,Partly operational,Piero Serra
+AVIANO (16037-0),0-20000-0-16037,16037,Land (fixed),46.0302777778,12.5991666667,113,,Italy,6,Silent,Unknown,Piero Serra
+UDINE/RIVOLTO,0-20000-0-16045,16045,Land (fixed),45.9755555556,13.0491666667,51,,Italy,6,Operational,Operational,Piero Serra
+PIAN ROSA,0-20000-0-16052,16052,Land (fixed),45.935,7.7061111111,3480,,Italy,6,Operational,Partly operational,Piero Serra
+AOSTA POLLEIN,0-20000-0-16054,16054,Land (fixed),45.7347222222,7.3505555556,550,,Italy,6,Operational,Silent,Piero Serra
+BOUSSON VALLE DI SUSA,0-20000-0-16058,16058,Land (fixed),44.9338888889,6.8222222222,1399,,Italy,6,Operational,Silent,
+TORINO CASELLE,0-20000-0-16059,16059,Land (fixed),45.2025,7.6494444444,301,,Italy,6,Operational,Operational,Piero Serra
+TORINO VENARIA REALE,0-20000-0-16060,16060,Land (fixed),45.1305555556,7.6175,276,,Italy,6,Operational,Silent,
+BRIC DELLA CROCE,0-20000-0-16061,16061,Land (fixed),45.0333333333,7.7316666667,709,,Italy,6,Operational,Operational,
+NOVARA/CAMERI,0-20000-0-16064,16064,Land (fixed),45.53,8.6666666667,178,,Italy,6,Operational,Partly operational,Piero Serra
+MILANO MALPENSA,0-20000-0-16066,16066,Land (fixed),45.63,8.7230555556,234,,Italy,6,Operational,Operational,Piero Serra
+GALLARATE,0-20000-0-16067,16067,Land (fixed),45.6477777778,8.8136111111,237,,Italy,6,Operational,Unknown,
+CASALE MONFERRATO,0-20000-0-16068,16068,Land (fixed),45.1127777778,8.4536111111,119,,Italy,6,Operational,Silent,
+MONTE BISBINO,0-20000-0-16073,16073,Land (fixed),45.8733333333,9.0652777778,1322,,Italy,6,Operational,Unknown,
+BERGAMO ORIO AL SERIO,0-20000-0-16076,16076,Land (fixed),45.6688888889,9.7002777778,238,,Italy,6,Operational,Silent,Piero Serra
+MILANO/LINATE (16080-0),0-20000-0-16080,16080,Land (fixed),45.4494444444,9.2783333333,108,,Italy,6,Operational,Operational,Piero Serra
+MILANO/LINATE (16081-0),0-20000-0-16081,16081,Land (fixed),45.46,9.2583333333,107,,Italy,6,Silent,Unknown,Piero Serra
+PIACENZA S. DAMIANO,0-20000-0-16084,16084,Land (fixed),44.9091666667,9.7277777778,138,,Italy,6,Operational,Operational,Piero Serra
+BRESCIA/GHEDI,0-20000-0-16088,16088,Land (fixed),45.4205555556,10.2813888889,102,,Italy,6,Operational,Operational,Piero Serra
+DESENZANO,0-20000-0-16089,16089,Land (fixed),45.4644444444,10.5552777778,64,,Italy,6,Operational,Silent,Piero Serra
+VERONA/VILLAFRANCA,0-20000-0-16090,16090,Land (fixed),45.3880555556,10.8733333333,73,,Italy,6,Operational,Operational,Piero Serra
+TREVISO/ISTRANA,0-20000-0-16098,16098,Land (fixed),45.6838888889,12.1066666667,42,,Italy,6,Operational,Operational,Piero Serra
+TREVISO/S. ANGELO,0-20000-0-16099,16099,Land (fixed),45.65,12.1833333333,18,,Italy,6,Operational,Operational,Piero Serra
+VENEZIA LIDO,0-20000-0-16101,16101,Land (fixed),45.4275,12.3841666667,4,,Italy,6,Operational,Partly operational,Piero Serra
+VENEZIA TESSERA,0-20000-0-16105,16105,Land (fixed),45.5052777778,12.3519444444,2,,Italy,6,Operational,Operational,Piero Serra
+CONCORDIA SAGITTARIA,0-20000-0-16107,16107,Land (fixed),45.7611111111,12.8569444444,1,,Italy,6,Operational,Partly operational,
+RONCHI DEI LEGIONARI,0-20000-0-16108,16108,Land (fixed),45.8275,13.4722222222,12,,Italy,6,Operational,Operational,Piero Serra
+TRIESTE,0-20000-0-16110,16110,Land (fixed),45.6769444444,13.7547222222,3,,Italy,6,Operational,Operational,Piero Serra
+MONTE SETTEPANI,0-20000-0-16111,16111,Land (fixed),44.2425,8.2011111111,1381,,Italy,6,Operational,Silent,Piero Serra
+CUNEO-LEVALDIGI RDS,0-20000-0-16113,16113,Land (fixed),44.5391666667,7.6125,385,,Italy,6,Operational,Partly operational,
+MONDOVI,0-20000-0-16114,16114,Land (fixed),44.3902777778,7.8291666667,559,,Italy,6,Operational,Operational,Piero Serra
+CUNEO LEVALDIGI,0-20000-0-16117,16117,Land (fixed),44.5530555556,7.625,385,,Italy,6,Operational,Unknown,
+PASSO DEI GIOVI (16119-0),0-20000-0-16119,16119,Land (fixed),44.5522222222,8.9375,487,,Italy,6,Operational,Partly operational,Piero Serra
+GENOVA/SESTRI,0-20000-0-16120,16120,Land (fixed),44.4133333333,8.8375,4,,Italy,6,Operational,Operational,Piero Serra
+GENOVA,0-20000-0-16121,16121,Land (fixed),44.4194444444,8.9211111111,44,,Italy,6,Operational,Silent,Piero Serra
+ALBENGA,0-20000-0-16122,16122,Land (fixed),44.0458333333,8.1255555556,45,,Italy,6,Operational,Unknown,
+CHIAVARI,0-20000-0-16123,16123,Land (fixed),44.3261111111,9.3472222222,29,,Italy,6,Operational,Silent,
+SARZANA-LUNI,0-20000-0-16125,16125,Land (fixed),44.0872222222,9.985,13.71,,Italy,6,Operational,Partly operational,Piero Serra
+PASSO DEI GIOVI (16126-0),0-20000-0-16126,16126,Land (fixed),44.5522222222,8.9375,487,,Italy,6,Operational,Unknown,
+LA SPEZIA-LA CASTELLANA,0-20000-0-16129,16129,Land (fixed),44.0669444444,9.8163888889,520,,Italy,6,Operational,Silent,
+PARMA,0-20000-0-16130,16130,Land (fixed),44.8172222222,10.2969444444,50,,Italy,6,Operational,Unknown,
+PARMA PANNOCCHIA,0-20000-0-16131,16131,Land (fixed),44.6833333333,10.3125,180,,Italy,6,Operational,Unknown,
+BOLOGNA,0-20000-0-16132,16132,Land (fixed),44.5275,11.2886111111,51,,Italy,6,Operational,Partly operational,
+FERRARA (16133-0),0-20000-0-16133,16133,Land (fixed),44.8152777778,11.6125,9,,Italy,6,Operational,Partly operational,Piero Serra
+MONTE CIMONE,0-20000-0-16134,16134,Land (fixed),44.19353,10.700807,2165,,Italy,6,Operational,Operational,Daniele Biron
+PASSO PORRETTA,0-20000-0-16135,16135,Land (fixed),44.0283333333,11.0041666667,1313,,Italy,6,Operational,Unknown,
+FERRARA (16138-0),0-20000-0-16138,16138,Land (fixed),44.8155555556,11.6125,8,,Italy,6,Operational,Partly operational,Piero Serra
+BOLOGNA/BORGO PANIGALE,0-20000-0-16140,16140,Land (fixed),44.5308333333,11.2969444444,37,,Italy,6,Operational,Operational,Piero Serra
+VOLANO,0-20000-0-16141,16141,Land (fixed),44.8138888889,12.2491666667,3,,Italy,6,Operational,Unknown,
+ROLO,0-20000-0-16143,16143,Land (fixed),44.8852777778,10.8744444444,21,,Italy,6,Operational,Partly operational,Piero Serra
+S. PIETRO CAPOFIUME RDS,0-20000-0-16144,16144,Land (fixed),44.6538888889,11.6225,10,,Italy,6,Operational,Partly operational,
+PUNTA MARINA,0-20000-0-16146,16146,Land (fixed),44.4413888889,12.2961111111,2,,Italy,6,Operational,Partly operational,Piero Serra
+FORLI,0-20000-0-16147,16147,Land (fixed),44.1955555556,12.0697222222,30,,Italy,6,Operational,Silent,Piero Serra
+CERVIA,0-20000-0-16148,16148,Land (fixed),44.2288888889,12.2919444444,6,,Italy,6,Operational,Operational,Piero Serra
+RIMINI,0-20000-0-16149,16149,Land (fixed),44.0244444444,12.6127777778,12,,Italy,6,Operational,Operational,Piero Serra
+IMPERIA,0-20000-0-16150,16150,Land (fixed),43.8666666667,8.0333333333,58,,Italy,6,Operational,Unknown,
+CAPO MELE,0-20000-0-16153,16153,Land (fixed),43.9572222222,8.1697222222,220,,Italy,6,Operational,Operational,Piero Serra
+ISOLA GORGONA,0-20000-0-16154,16154,Land (fixed),43.4280555556,9.8941666667,254,,Italy,6,Silent,Unknown,Piero Serra
+ISOLA CAPRAIA,0-20000-0-16155,16155,Land (fixed),43.0513888889,9.8441666667,25,,Italy,6,Operational,Unknown,
+PISA S. GIUSTO,0-20000-0-16158,16158,Land (fixed),43.6825,10.3955555556,2,,Italy,6,Operational,Operational,Piero Serra
+MONTE ARGENTARIO,0-20000-0-16168,16168,Land (fixed),42.3869444444,11.1697222222,630.7,,Italy,6,Operational,Operational,Piero Serra
+FIRENZE PERETOLA,0-20000-0-16170,16170,Land (fixed),43.8086111111,11.2027777778,43,,Italy,6,Operational,Operational,Piero Serra
+FIRENZE,0-20000-0-16171,16171,Land (fixed),43.7855555556,11.2158333333,17,,Italy,6,Silent,Unknown,Piero Serra
+AREZZO,0-20000-0-16172,16172,Land (fixed),43.4597222222,11.8455555556,248,,Italy,6,Operational,Operational,Piero Serra
+FRONTONE,0-20000-0-16179,16179,Land (fixed),43.5169444444,12.7277777778,570,,Italy,6,Operational,Operational,Piero Serra
+PERUGIA S. EGIDIO (16181-0),0-20000-0-16181,16181,Land (fixed),43.0972222222,12.5102777778,212,,Italy,6,Operational,Unknown,
+PERUGIA S. EGIDIO (16182-0),0-20000-0-16182,16182,Land (fixed),43.0925,12.5047222222,204,,Italy,6,Operational,Unknown,
+ANCONA,0-20000-0-16190,16190,Land (fixed),43.6113888889,13.5252777778,141,,Italy,6,Operational,Silent,Piero Serra
+FALCONARA,0-20000-0-16191,16191,Land (fixed),43.6166666667,13.3602777778,15,,Italy,6,Operational,Operational,Piero Serra
+LORETO,0-20000-0-16192,16192,Land (fixed),43.43,13.6036111111,196,,Italy,6,Operational,Silent,
+MONTE CALAMITA,0-20000-0-16197,16197,Land (fixed),42.7311111111,10.3955555556,396,,Italy,6,Operational,Operational,Piero Serra
+ISOLA D'ELBA,0-20000-0-16198,16198,Land (fixed),42.7311111111,10.3955555556,396,,Italy,6,Operational,Unknown,
+RADICOFANI,0-20000-0-16204,16204,Land (fixed),42.8961111111,11.7677777778,816,,Italy,6,Silent,Operational,Piero Serra
+GROSSETO,0-20000-0-16206,16206,Land (fixed),42.7480555556,11.0588888889,5.4,,Italy,6,Operational,Operational,Piero Serra
+FURBARA,0-20000-0-16210,16210,Land (fixed),41.9969444444,12.0163888889,11,,Italy,6,Operational,Unknown,
+CIVITAVECCHIA,0-20000-0-16214,16214,Land (fixed),42.0327777778,11.8330555556,3.48,,Italy,6,Operational,Partly operational,Piero Serra
+VITERBO (16216-0),0-20000-0-16216,16216,Land (fixed),42.4383333333,12.055,300,,Italy,6,Operational,Operational,Piero Serra
+ORTE,0-20000-0-16217,16217,Land (fixed),42.4713888889,12.3422222222,74,,Italy,6,Operational,Operational,Piero Serra
+VITERBO (16218-0),0-20000-0-16218,16218,Land (fixed),42.4408333333,12.0577777778,309,,Italy,6,Silent,Unknown,Piero Serra
+MONTE TERMINILLO,0-20000-0-16219,16219,Land (fixed),42.4666666667,12.9833333333,1874,,Italy,6,Operational,Operational,Piero Serra
+RIETI,0-20000-0-16221,16221,Land (fixed),42.4266666667,12.85,390,,Italy,6,Operational,Unknown,
+VIGNA DI VALLE,0-20000-0-16224,16224,Land (fixed),42.0802777778,12.2113888889,260,,Italy,6,Operational,Operational,Lucia Cappelletti
+L'AQUILA,0-20000-0-16226,16226,Land (fixed),42.3755555556,13.3272222222,668,,Italy,6,Operational,Unknown,
+FUCINO,0-20000-0-16227,16227,Land (fixed),41.9783333333,13.6052777778,649,,Italy,6,Operational,Partly operational,Piero Serra
+PESCARA,0-20000-0-16230,16230,Land (fixed),42.4372222222,14.1872222222,15,,Italy,6,Operational,Operational,Piero Serra
+S. GIOVANNI TEATINO,0-20000-0-16231,16231,Land (fixed),42.4188888889,14.2113888889,179,,Italy,6,Operational,Operational,Piero Serra
+TERMOLI,0-20000-0-16232,16232,Land (fixed),42.0041666667,14.9963888889,16,,Italy,6,Operational,Operational,Piero Serra
+GUIDONIA (16233-0),0-20000-0-16233,16233,Land (fixed),41.9886111111,12.7375,89,,Italy,6,Operational,Unknown,
+GUIDONIA (16234-0),0-20000-0-16234,16234,Land (fixed),41.9966666667,12.7344444444,88.1,,Italy,6,Operational,Partly operational,Piero Serra
+ROMA/URBE,0-20000-0-16235,16235,Land (fixed),41.9519444444,12.5008333333,17,,Italy,6,Operational,Unknown,
+ROMA/CENTOCELLE,0-20000-0-16238,16238,Land (fixed),41.8680555556,12.5577777778,52,,Italy,6,Operational,Unknown,
+ROMA/CIAMPINO,0-20000-0-16239,16239,Land (fixed),41.8080555556,12.5847222222,129,,Italy,6,Operational,Operational,Piero Serra
+ROMA/FIUMICINO,0-20000-0-16242,16242,Land (fixed),41.8002777778,12.2388888889,4,,Italy,6,Operational,Operational,Piero Serra
+LATINA (16243-0),0-20000-0-16243,16243,Land (fixed),41.5458333333,12.9097222222,25,,Italy,6,Operational,Partly operational,Piero Serra
+FROSINONE,0-20000-0-16244,16244,Land (fixed),41.645,13.2994444444,192.5,,Italy,6,Operational,Partly operational,Piero Serra
+PRATICA DI MARE,0-20000-0-16245,16245,Land (fixed),41.6555555556,12.4480555556,12.3,,Italy,6,Operational,Operational,Piero Serra
+LATINA (16247-0),0-20000-0-16247,16247,Land (fixed),41.5447222222,12.9105555556,25,,Italy,6,Silent,Unknown,Piero Serra
+TORRE OLEVOLA,0-20000-0-16249,16249,Land (fixed),41.2508333333,13.1186111111,2,,Italy,6,Operational,Unknown,
+CAMPOBASSO,0-20000-0-16252,16252,Land (fixed),41.5636111111,14.655,793,,Italy,6,Operational,Operational,Piero Serra
+GRAZZANISE,0-20000-0-16253,16253,Land (fixed),41.0605555556,14.0788888889,9.19,,Italy,6,Operational,Operational,Piero Serra
+MONTE S. ANGELO,0-20000-0-16258,16258,Land (fixed),41.7083333333,15.9477777778,838,,Italy,6,Operational,Partly operational,
+AMENDOLA,0-20000-0-16261,16261,Land (fixed),41.5380555556,15.7138888889,57,,Italy,6,Operational,Operational,Piero Serra
+TREVICO,0-20000-0-16263,16263,Land (fixed),41.0466666667,15.2327777778,1085,,Italy,6,Operational,Operational,Piero Serra
+VIESTE,0-20000-0-16266,16266,Land (fixed),41.8880555556,16.1647222222,3,,Italy,6,Operational,Partly operational,Piero Serra
+BARI/PALESE,0-20000-0-16270,16270,Land (fixed),41.1380555556,16.765,57,,Italy,6,Operational,Operational,Piero Serra
+BARI,0-20000-0-16271,16271,Land (fixed),41.1205555556,16.8836111111,10,,Italy,6,Operational,Silent,Piero Serra
+PONZA,0-20000-0-16280,16280,Land (fixed),40.9119444444,12.9569444444,184,,Italy,6,Operational,Operational,Piero Serra
+CASERTA,0-20000-0-16288,16288,Land (fixed),41.0708333333,14.3236111111,61,,Italy,6,Operational,Partly operational,Piero Serra
+NAPOLI/CAPODICHINO,0-20000-0-16289,16289,Land (fixed),40.8844444444,14.2908333333,90,,Italy,6,Operational,Operational,Piero Serra
+CAPRI,0-20000-0-16294,16294,Land (fixed),40.5577777778,14.2019444444,160,,Italy,6,Operational,Operational,Piero Serra
+CAPO PALINURO,0-20000-0-16310,16310,Land (fixed),40.025,15.2802777778,184,,Italy,6,Operational,Partly operational,Piero Serra
+GIOIA DEL COLLE,0-20000-0-16312,16312,Land (fixed),40.7661111111,16.9352777778,345,,Italy,6,Operational,Operational,Piero Serra
+MATERA,0-20000-0-16314,16314,Land (fixed),40.6752777778,16.6561111111,496,,Italy,6,Operational,Partly operational,Piero Serra
+LATRONICO (16316-0),0-20000-0-16316,16316,Land (fixed),40.0875,16.0136111111,888,,Italy,6,Operational,Silent,Piero Serra
+LATRONICO (16317-0),0-20000-0-16317,16317,Land (fixed),40.0875,16.0136111111,895,,Italy,6,Operational,Unknown,
+MARTINA FRANCA,0-20000-0-16318,16318,Land (fixed),40.6427777778,17.2061111111,413,,Italy,6,Operational,Silent,Piero Serra
+MARINA DI GINOSA,0-20000-0-16325,16325,Land (fixed),40.4244444444,16.8866666667,1.3,,Italy,6,Operational,Operational,Piero Serra
+BONIFATI (16336-0),0-20000-0-16336,16336,Land (fixed),39.5847222222,15.8908333333,484,,Italy,6,Operational,Unknown,
+BONIFATI (16337-0),0-20000-0-16337,16337,Land (fixed),39.5847222222,15.8913888889,484,,Italy,6,Operational,Operational,
+PUNTA ALICE,0-20000-0-16342,16342,Land (fixed),39.3986111111,17.1527777778,3,,Italy,6,Operational,Unknown,
+MONTE SCURO,0-20000-0-16344,16344,Land (fixed),39.3305555556,16.3963888889,1669,,Italy,6,Operational,Operational,Piero Serra
+CROTONE,0-20000-0-16350,16350,Land (fixed),38.9966666667,17.0791666667,159,,Italy,6,Operational,Unknown,
+LAMEZIA TERME,0-20000-0-16362,16362,Land (fixed),38.9083333333,16.2416666667,12,,Italy,6,Operational,Operational,Piero Serra
+SERRALTA DI S. VITO,0-20000-0-16364,16364,Land (fixed),38.7555555556,16.3683333333,996,,Italy,6,Operational,Silent,Piero Serra
+CATANZARO,0-20000-0-16365,16365,Land (fixed),38.9052777778,16.5952777778,332,,Italy,6,Operational,Silent,Piero Serra
+USTICA,0-20000-0-16400,16400,Land (fixed),38.7072222222,13.1772222222,242,,Italy,6,Operational,Operational,Piero Serra
+PALERMO PUNTA RAISI,0-20000-0-16405,16405,Land (fixed),38.1819444444,13.0994444444,20,,Italy,6,Operational,Operational,Piero Serra
+PALERMO BOCCADIFALCO,0-20000-0-16409,16409,Land (fixed),38.1119444444,13.3116666667,120,,Italy,6,Operational,Unknown,
+ISOLA SALINA,0-20000-0-16415,16415,Land (fixed),38.58,14.8716666667,45,,Italy,6,Operational,Partly operational,Piero Serra
+ISOLA STROMBOLI,0-20000-0-16416,16416,Land (fixed),38.8025,15.2341666667,75,,Italy,6,Operational,Partly operational,
+MESSINA,0-20000-0-16420,16420,Land (fixed),38.1997222222,15.5488888889,50.5,,Italy,6,Operational,Operational,Piero Serra
+REGGIO CALABRIA,0-20000-0-16422,16422,Land (fixed),38.0719444444,15.6536111111,29,,Italy,6,Operational,Operational,Piero Serra
+TRAPANI BIRGI,0-20000-0-16429,16429,Land (fixed),37.9141666667,12.4913888889,7.3,,Italy,6,Operational,Operational,Piero Serra
+PRIZZI,0-20000-0-16434,16434,Land (fixed),37.7227777778,13.4280555556,1034,,Italy,6,Operational,Partly operational,Piero Serra
+SCIACCA,0-20000-0-16436,16436,Land (fixed),37.5136111111,13.1266666667,124,,Italy,6,Operational,Partly operational,Piero Serra
+GIBILMANNA,0-20000-0-16442,16442,Land (fixed),37.9908333333,14.0269444444,997,,Italy,6,Operational,Silent,
+ENNA,0-20000-0-16450,16450,Land (fixed),37.5680555556,14.2797222222,1000,,Italy,6,Operational,Partly operational,Piero Serra
+GELA,0-20000-0-16453,16453,Land (fixed),37.0763888889,14.225,58,,Italy,6,Operational,Operational,Piero Serra
+CATANIA SIGONELLA,0-20000-0-16459,16459,Land (fixed),37.4055555556,14.9186111111,24,,Italy,6,Operational,Operational,Piero Serra
+CATANIA FONTANAROSSA,0-20000-0-16460,16460,Land (fixed),37.4666666667,15.0638888889,12,,Italy,6,Operational,Operational,Piero Serra
+SIRACUSA,0-20000-0-16464,16464,Land (fixed),37.0661111111,15.2794444444,1,,Italy,6,Operational,Operational,Piero Serra
+MEZZO GREGORIO,0-20000-0-16465,16465,Land (fixed),36.9658333333,14.9577777778,638,,Italy,6,Operational,Silent,
+CAPO SPARTIVENTO,0-20000-0-16469,16469,Land (fixed),37.9258333333,16.0605555556,117,,Italy,6,Operational,Silent,Piero Serra
+PANTELLERIA,0-20000-0-16470,16470,Land (fixed),36.8138888889,11.9711111111,191.4,,Italy,6,Operational,Unknown,Piero Serra
+COZZO SPADARO,0-20000-0-16480,16480,Land (fixed),36.6861111111,15.1313888889,46,,Italy,6,Operational,Operational,Piero Serra
+LAMPEDUSA,0-20000-0-16490,16490,Land (fixed),35.4980555556,12.6183333333,21,,Italy,6,Operational,Operational,Piero Serra
+PORTO TORRES,0-20000-0-16504,16504,Land (fixed),40.8391666667,8.4052777778,6,,Italy,6,Operational,Unknown,
+ALGHERO,0-20000-0-16520,16520,Land (fixed),40.6311111111,8.2886111111,27,,Italy,6,Operational,Silent,Piero Serra
+CAPO CACCIA,0-20000-0-16522,16522,Land (fixed),40.5611111111,8.1630555556,200,,Italy,6,Operational,Operational,Piero Serra
+MACOMER SA' CRABARZA,0-20000-0-16524,16524,Land (fixed),40.2555555556,8.7358333333,585,,Italy,6,Operational,Unknown,
+OLBIA COSTA SMERALDA,0-20000-0-16531,16531,Land (fixed),40.8986111111,9.5177777778,11,,Italy,6,Operational,Unknown,Piero Serra
+CAPO FRASCA,0-20000-0-16539,16539,Land (fixed),39.7411111111,8.4594444444,89,,Italy,6,Operational,Partly operational,Piero Serra
+PERDASDEFOGU,0-20000-0-16541,16541,Land (fixed),39.6747222222,9.4430555556,608,,Italy,6,Operational,Operational,Piero Serra
+CAPO S. LORENZO (16542-0),0-20000-0-16542,16542,Land (fixed),39.4980555556,9.6294444444,4,,Italy,6,Operational,Operational,Piero Serra
+CAPO S. LORENZO (16543-0),0-20000-0-16543,16543,Land (fixed),39.4975,9.6305555556,2,,Italy,6,Operational,Unknown,
+DECIMOMANNU,0-20000-0-16546,16546,Land (fixed),39.3461111111,8.9675,29,,Italy,6,Operational,Operational,Piero Serra
+CARLOFORTE,0-20000-0-16549,16549,Land (fixed),39.1369444444,8.3113888889,11,,Italy,6,Operational,Unknown,
+CAPO BELLAVISTA,0-20000-0-16550,16550,Land (fixed),39.9308333333,9.7130555556,138,,Italy,6,Operational,Operational,Piero Serra
+CAGLIARI ELMAS,0-20000-0-16560,16560,Land (fixed),39.2436111111,9.06,4,,Italy,6,Operational,Operational,Piero Serra
+CAPO CARBONARA,0-20000-0-16564,16564,Land (fixed),39.1038888889,9.5136111111,116,,Italy,6,Operational,Partly operational,Piero Serra
+TEULADA,0-20000-0-16570,16570,Land (fixed),38.9891666667,8.66,50,,Italy,6,Operational,Unknown,
+UDINE/RIVOLTO RDS,0-20001-0-16045,16045,Land (fixed),45.9805555556,13.0591666667,50,,Italy,6,Operational,Partly operational,
+PRATICA DI MARE RDS,0-20001-0-16245,16245,Land (fixed),41.67,12.4508333333,32,,Italy,6,Operational,Partly operational,
+TRAPANI BIRGI RDS,0-20001-0-16429,16429,Land (fixed),37.9141666667,12.4913888889,7.3,,Italy,6,Operational,Partly operational,
+DECIMOMANNU RDS,0-20001-0-16546,16546,Land (fixed),39.3461111111,8.9675,29,,Italy,6,Operational,Partly operational,
+NALUT,0-20000-0-62002,62002,Land (fixed),31.5144444444,10.5977777777,622,,Libya,1,Operational,Operational,Faraj M ZAYET
+ZUARA,0-20000-0-62007,62007,Land (fixed),32.9315,12.099108,4,,Libya,1,Operational,Partly operational,Faraj M ZAYET
+YEFREN,0-20000-0-62008,62008,Land (fixed),32.0403,12.3128,690.84,,Libya,1,Operational,Partly operational,Faraj M ZAYET
+GARIAN,0-20000-0-62011,62011,Land (fixed),32.092,13.0043,728.9,,Libya,1,Operational,Operational,Faraj M ZAYET
+EL KHOMS,0-20000-0-62012,62012,Land (fixed),32.66837,14.24072,25,,Libya,1,Operational,Operational,Faraj M ZAYET
+BENWLID,0-20000-0-62014,62014,Land (fixed),31.7405555555,13.9572222222,270.2,,Libya,1,Silent,Unknown,Faraj M ZAYET
+MISURATA,0-20000-0-62016,62016,Land (fixed),32.2426,15.0211,33,,Libya,1,Operational,Operational,Faraj M ZAYET
+ABU NJAYM,0-20000-0-62018,62018,Land (fixed),30.3552,15.2542,90.48,,Libya,1,Partly operational,Operational,Faraj M ZAYET
+SIRTE,0-20000-0-62019,62019,Land (fixed),31.2083333333,16.5719444444,13,,Libya,1,Operational,Operational,Faraj M ZAYET
+GHADAMES,0-20000-0-62103,62103,Land (fixed),30.1108333333,9.4905555555,347,,Libya,1,Operational,Partly operational,Faraj M ZAYET
+GARIAT EL-SHARGHIA,0-20000-0-62120,62120,Land (fixed),30.3908333333,13.5852777777,497,,Libya,1,Operational,Partly operational,Mohan Abayasekara
+EL HAMADA,0-20000-0-62121,62121,Land (fixed),29.5166666667,12.9333333333,,,Libya,1,Silent,Unknown,Faraj M ZAYET
+SEBHA,0-20000-0-62124,62124,Land (fixed),27.0166666667,14.45,435,,Libya,1,Operational,Partly operational,Faraj M ZAYET
+HON,0-20000-0-62131,62131,Land (fixed),29.1341666666,15.935,267,,Libya,1,Operational,Operational,Faraj M ZAYET
+OBARI,0-20000-0-62200,62200,Land (fixed),26.6,12.7833333333,463,,Libya,1,Operational,Partly operational,Faraj M ZAYET
+ALGATRON,0-20000-0-62210,62210,Land (fixed),24.5513,14.3475,468,,Libya,1,Silent,Unknown,Faraj M ZAYET
+GHAT,0-20000-0-62212,62212,Land (fixed),25.1397222222,10.1511111111,699,,Libya,1,Operational,Partly operational,Faraj M ZAYET
+ESSBEEA,0-434-0-62009,62009,Land (fixed),32.3227,13.1018,126.4,,Libya,1,Operational,Operational,Faraj M ZAYET
+TRAGEN,0-434-0-62225,62225,Land (fixed),25.9436111111,14.4177777777,468,,Libya,1,Operational,Operational,Faraj M ZAYET
+TESSALIT,0-20000-0-61202,61202,Land (fixed),20.2,0.9833333333,494,,Mali,1,Operational,Unknown,Dicko Niamé
+LUQA,0-20000-0-16597,16597,Land (fixed),35.85,14.4833333333,91,,Malta,6,Operational,Partly operational,
+GUDJA,0-20000-0-16599,16599,Land (fixed),35.85,14.5,78,,Malta,6,Operational,Operational,
+TANGER-PORT,0-20000-0-60100,60100,Land (fixed),35.7877777778,-5.8066666667,11,,Morocco,1,Operational,Unknown,MAR NMHS 
+TANGER (AERODROME),0-20000-0-60101,60101,Land (fixed),35.72638,-5.9055,14,,Morocco,1,Operational,Operational,Mounir Aziz
+LARACHE,0-20000-0-60105,60105,Land (fixed),35.1627777778,-6.1163888889,66,,Morocco,1,Operational,Partly operational,Mounir Aziz
+CHEFCHAOUEN,0-20000-0-60106,60106,Land (fixed),35.1725,-5.3130555556,287,,Morocco,1,Operational,Operational,Mounir Aziz
+AL HOCEIMA,0-20000-0-60107,60107,Land (fixed),35.1833333333,-3.85,27,,Morocco,1,Operational,Operational,
+OUJDA,0-20000-0-60115,60115,Land (fixed),34.7833333333,-1.9333333333,468,,Morocco,1,Operational,Operational,Mounir Aziz
+KENITRA,0-20000-0-60120,60120,Land (fixed),34.3002777778,-6.5947222222,4,,Morocco,1,Operational,Operational,Mounir Aziz
+TAZA,0-20000-0-60127,60127,Land (fixed),34.2166666667,-4,509,,Morocco,1,Operational,Unknown,MAR NMHS 
+TAOURIRT,0-20000-0-60128,60128,Land (fixed),34.3969444444,-2.8980555556,415,,Morocco,1,Operational,Partly operational,MAR NMHS 
+RABAT-SALE,0-20000-0-60135,60135,Land (fixed),34.046111,-6.75805,74,,Morocco,1,Operational,Operational,Mounir Aziz
+SIDI SLIMANE,0-20000-0-60136,60136,Land (fixed),34.2327777778,-6.0547222222,50,,Morocco,1,Operational,Operational,
+FES-SAIS,0-20000-0-60141,60141,Land (fixed),33.9327,-4.975,571,,Morocco,1,Operational,Operational,Mounir Aziz
+MOHAMMEDIA,0-20000-0-60146,60146,Land (fixed),33.7166666667,-7.4,4,,Morocco,1,Operational,Operational,MAR NMHS 
+MEKNES,0-20000-0-60150,60150,Land (fixed),33.8822222222,-5.5227777778,556,,Morocco,1,Operational,Operational,
+Casablanca,0-20000-0-60155,60155,Land (fixed),33.5666666667,-7.6666666667,56,,Morocco,1,Operational,Partly operational,MAR NMHS 
+NOUASSEUR,0-20000-0-60156,60156,Land (fixed),33.3666666667,-7.5833333333,200,,Morocco,1,Operational,Operational,Mounir Aziz
+IFRANE,0-20000-0-60160,60160,Land (fixed),33.5,-5.1666666667,1664,,Morocco,1,Operational,Operational,
+EL JADIDA,0-20000-0-60165,60165,Land (fixed),32.133333,-13.5501,25,,Morocco,1,Operational,Operational,Mounir Aziz
+SETTAT,0-20000-0-60177,60177,Land (fixed),32.95,-7.6166666667,408,,Morocco,1,Operational,Operational,MAR NMHS 
+KHOURIBGA,0-20000-0-60178,60178,Land (fixed),32.8666666667,-6.9666666667,771,,Morocco,1,Operational,Operational,Mounir Aziz
+SAFI,0-20000-0-60185,60185,Land (fixed),32.2833333333,-9.2333333333,43,,Morocco,1,Operational,Partly operational,
+KASBA-TADLA,0-20000-0-60190,60190,Land (fixed),32.5333333333,-6.2833333333,507,,Morocco,1,Operational,Partly operational,MAR NMHS 
+Beni Mellal Sidi Jaber,0-20000-0-60191,60191,Land (fixed),32.3666666667,-6.4,468,,Morocco,1,Operational,Partly operational,MAR NMHS 
+MIDELT,0-20000-0-60195,60195,Land (fixed),32.6833333333,-4.7333333333,1508,,Morocco,1,Operational,Partly operational,MAR NMHS 
+BOUARFA,0-20000-0-60200,60200,Land (fixed),32.5666,-1.95,1142,,Morocco,1,Operational,Operational,MAR NMHS 
+Errachidia,0-20000-0-60210,60210,Land (fixed),31.9333333333,-4.4,1037,,Morocco,1,Operational,Operational,Mounir Aziz
+ESSAOUIRA,0-20000-0-60220,60220,Land (fixed),31.509988,-9.773452,7,,Morocco,1,Operational,Partly operational,Mounir Aziz
+TAKERKOUSTE,0-20000-0-60223,60223,Land (fixed),31.0333333333,-8.4833333333,667,,Morocco,1,Operational,Operational,
+MARRAKECH,0-20000-0-60230,60230,Land (fixed),31.6166,-8.0333,464,,Morocco,1,Operational,Operational,Mounir Aziz
+OUKAIMDEN,0-20000-0-60237,60237,Land (fixed),31.2166666667,-7.9166666667,2680,,Morocco,1,Operational,Unknown,
+Agadir,0-20000-0-60250,60250,Land (fixed),30.3833333333,-9.5666666667,18,,Morocco,1,Operational,Operational,MAR NMHS 
+Aït Melloul,0-20000-0-60252,60252,Land (fixed),30.3288888889,-9.3994444444,74,,Morocco,1,Operational,Operational,Mounir Aziz
+Taroudant,0-20000-0-60253,60253,Land (fixed),30.5,-8.8166666667,264,,Morocco,1,Operational,Operational,Mounir Aziz
+OUARZAZATE,0-20000-0-60265,60265,Land (fixed),30.9333333333,-6.9,1136,,Morocco,1,Operational,Operational,
+TIZNIT,0-20000-0-60270,60270,Land (fixed),29.6833333333,-9.7333333333,260,,Morocco,1,Operational,Operational,MAR NMHS 
+Tétouan,0-20000-0-60318,60318,Land (fixed),35.5927777778,-5.3316666667,4,,Morocco,1,Operational,Operational,Mounir Aziz
+NADOR-AROUI,0-20000-0-60340,60340,Land (fixed),34.9833333333,-3.0166666667,178,,Morocco,1,Operational,Operational,
+Benslimane,0-504-0-60158,60158,Land (fixed),33.6459,-7.2142,191.1,,Morocco,1,Operational,Operational,Mounir Aziz
+Benguerir,0-504-0-60188,60188,Land (fixed),32.1189,-7.8894,430.68,,Morocco,1,Operational,Operational,Mounir Aziz
+ESSAOUIRA AERODRME,0-504-0-60222,60222,Land (fixed),31.4011,-9.6833,105.5,,Morocco,1,Operational,Operational,MAR NMHS 
+Zagora,0-504-0-60275,60275,Land (fixed),30.265797,-5.850113,733,,Morocco,1,Operational,Operational,MAR NMHS 
+Amizmiz,0-504-1-60098,60098,Land (fixed),31.2166,-8.2333,1000,,Morocco,1,Operational,Unknown,MAR NMHS 
+Fnideq,0-504-1-60103,60103,Land (fixed),35.8395,-5.3758,54,,Morocco,1,Operational,Unknown,MAR NMHS 
+Ouazzane,0-504-1-60109,60109,Land (fixed),34.8063,-5.5914,8,,Morocco,1,Operational,Unknown,MAR NMHS 
+Bouizakarne,0-504-1-60110,60110,Land (fixed),29.1768,-9.7804,610,,Morocco,1,Operational,Unknown,MAR NMHS 
+Tanger Med,0-504-1-60112,60112,Land (fixed),35.8781,-5.5128,32,,Morocco,1,Operational,Unknown,MAR NMHS 
+Assilah,0-504-1-60113,60113,Land (fixed),35.4652,-6.0371,32,,Morocco,1,Operational,Unknown,MAR NMHS 
+Ksar El Kebir,0-504-1-60116,60116,Land (fixed),35.0045,-5.9309,119,,Morocco,1,Operational,Partly operational,MAR NMHS 
+Mdiq,0-504-1-60117,60117,Land (fixed),35.6824,-5.3199,2,,Morocco,1,Operational,Unknown,MAR NMHS 
+Mechra Bel Ksiri,0-504-1-60118,60118,Land (fixed),34.5765,-5.9601,16,,Morocco,1,Operational,Unknown,MAR NMHS 
+Ouad Zem,0-504-1-60119,60119,Land (fixed),32.8593,-6.5722,818,,Morocco,1,Operational,Unknown,MAR NMHS 
+Fam El Hisn,0-504-1-60123,60123,Land (fixed),29.0117,-8.8967,479,,Morocco,1,Operational,Unknown,MAR NMHS 
+Skhirat,0-504-1-60124,60124,Land (fixed),33.8538,-7.0606,50,,Morocco,1,Operational,Unknown,MAR NMHS 
+Col Tichka,0-504-1-60126,60126,Land (fixed),31.2966,-7.3666,687,,Morocco,1,Operational,Unknown,MAR NMHS 
+Taliouine,0-504-1-60129,60129,Land (fixed),30.5322,-7.9277,1055,,Morocco,1,Operational,Partly operational,MAR NMHS 
+Debdou,0-504-1-60131,60131,Land (fixed),33.957,-3.038,957,,Morocco,1,Operational,Unknown,MAR NMHS 
+Zaio,0-504-1-60132,60132,Land (fixed),34.9398,-2.7484,185,,Morocco,1,Operational,Unknown,MAR NMHS 
+Immouzzer idda outanane,0-504-1-60134,60134,Land (fixed),30.6723,-9.4825,1184,,Morocco,1,Operational,Unknown,MAR NMHS 
+Sidi Kacem,0-504-1-60137,60137,Land (fixed),34.230247,-5.723877,50,,Morocco,1,Operational,Unknown,MAR NMHS 
+Souk Larbaa Gharb,0-504-1-60138,60138,Land (fixed),34.6885,-6.0131,20,,Morocco,1,Operational,Operational,MAR NMHS 
+Jbel Mgoun,0-504-1-60139,60139,Land (fixed),31.04,-6.2166,1790,,Morocco,1,Operational,Unknown,MAR NMHS 
+Moulay Idriss Zerhoun,0-504-1-60142,60142,Land (fixed),34.05713,-5.523,640,,Morocco,1,Operational,Unknown,MAR NMHS 
+Chtouka Ait Baha,0-504-1-60143,60143,Land (fixed),29.9805,-9.5612,640,,Morocco,1,Operational,Unknown,MAR NMHS 
+Taza Hammou Meftah,0-504-1-60144,60144,Land (fixed),34.2296805,-3.9436974,513,,Morocco,1,Operational,Partly operational,MAR NMHS 
+Tinghir,0-504-1-60145,60145,Land (fixed),31.5332,-5.6044,1291,,Morocco,1,Operational,Partly operational,MAR NMHS 
+Khemisset,0-504-1-60147,60147,Land (fixed),33.82194,-6.080278,461,,Morocco,1,Operational,Operational,MAR NMHS 
+Zaida,0-504-1-60148,60148,Land (fixed),32.81,-4.997222,1500,,Morocco,1,Operational,Unknown,MAR NMHS 
+Boumia,0-504-1-60149,60149,Land (fixed),31.86667,-5.05,1671,,Morocco,1,Operational,Unknown,MAR NMHS 
+El Hajeb,0-504-1-60151,60151,Land (fixed),33.66667,-5.367222,1115,,Morocco,1,Operational,Unknown,MAR NMHS 
+Merzouga,0-504-1-60152,60152,Land (fixed),31.3,-4.166667,300,,Morocco,1,Operational,Unknown,MAR NMHS 
+Errich,0-504-1-60154,60154,Land (fixed),32.25,-4.5,1328,,Morocco,1,Operational,Unknown,MAR NMHS 
+Tit Mellil,0-504-1-60157,60157,Land (fixed),33.5833,-7.45,90,,Morocco,1,Operational,Unknown,MAR NMHS 
+El Jebha,0-504-1-60159,60159,Land (fixed),32.20667,-4.665556,0,,Morocco,1,Operational,Unknown,MAR NMHS 
+Missour,0-504-1-60161,60161,Land (fixed),33.03361,-4.047778,934,,Morocco,1,Operational,Unknown,MAR NMHS 
+Saidia,0-504-1-60162,60162,Land (fixed),35.112,-2.3044,2,,Morocco,1,Operational,Operational,MAR NMHS 
+Tendrara,0-504-1-60164,60164,Land (fixed),33.052912,-2.012222,1469,,Morocco,1,Operational,Unknown,MAR NMHS 
+Ouled Ghanem,0-504-1-60166,60166,Land (fixed),32.8733,-8.86,25,,Morocco,1,Operational,Unknown,MAR NMHS 
+Imouzzer Kandar,0-504-1-60167,60167,Land (fixed),33.71667,-5,1372,,Morocco,1,Operational,Unknown,MAR NMHS 
+Moulay Bouselham,0-504-1-60168,60168,Land (fixed),34.8791,-6.28222,15,,Morocco,1,Operational,Unknown,MAR NMHS 
+Oulmes,0-504-1-60169,60169,Land (fixed),33.4183,-6.01111,1153,,Morocco,1,Operational,Operational,MAR NMHS 
+Sidi Yahya El Gharb,0-504-1-60171,60171,Land (fixed),34.3091,-6.30305,14,,Morocco,1,Operational,Unknown,MAR NMHS 
+Sidi Bennour,0-504-1-60172,60172,Land (fixed),32.658,-8.4286,184,,Morocco,1,Operational,Operational,MAR NMHS 
+Youssoufia,0-504-1-60173,60173,Land (fixed),32.2672,-8.5325,276,,Morocco,1,Operational,Unknown,MAR NMHS 
+Elbrouj,0-504-1-60174,60174,Land (fixed),32.5055,-7.1905,430,,Morocco,1,Operational,Partly operational,MAR NMHS 
+Ben Ahmed,0-504-1-60175,60175,Land (fixed),33.0669,-7.2416,620,,Morocco,1,Operational,Unknown,MAR NMHS 
+Tamanar,0-504-1-60179,60179,Land (fixed),31.0027,-9.6747,356,,Morocco,1,Operational,Unknown,MAR NMHS 
+Jetee My Youssef,0-504-1-60180,60180,Land (fixed),33.6136,-7.606,23,,Morocco,1,Operational,Unknown,MAR NMHS 
+Fkih Ben Saleh,0-504-1-60181,60181,Land (fixed),32.5616,-6.6988,451,,Morocco,1,Operational,Unknown,MAR NMHS 
+Driouch,0-504-1-60182,60182,Land (fixed),34.9791,-3.39138,276,,Morocco,1,Operational,Unknown,MAR NMHS 
+Ribat Al Khir,0-504-1-60183,60183,Land (fixed),33.8133,-4.41861,1120,,Morocco,1,Operational,Unknown,MAR NMHS 
+Berkane,0-504-1-60184,60184,Land (fixed),34.9294,-2.3283,163,,Morocco,1,Operational,Unknown,MAR NMHS 
+Aknoul,0-504-1-60186,60186,Land (fixed),34.6469,-3.86472,1012,,Morocco,1,Operational,Unknown,MAR NMHS 
+Bouiblane,0-504-1-60189,60189,Land (fixed),33.69,-4.1025,2130,,Morocco,1,Operational,Unknown,MAR NMHS 
+Goulmima,0-504-1-60193,60193,Land (fixed),31.688,-4.955,1022,,Morocco,1,Operational,Unknown,MAR NMHS 
+Guercif,0-504-1-60194,60194,Land (fixed),34.23861,-3.31361,372,,Morocco,1,Operational,Unknown,MAR NMHS 
+Imintanout,0-504-1-60196,60196,Land (fixed),31.1777,-8.8475,910,,Morocco,1,Operational,Operational,MAR NMHS 
+Jbal Ayachi,0-504-1-60197,60197,Land (fixed),32.5811,-4.5675,2370,,Morocco,1,Operational,Unknown,MAR NMHS 
+Kelaat Sraghna,0-504-1-60199,60199,Land (fixed),32.0422,-7.405,481,,Morocco,1,Operational,Silent,MAR NMHS 
+Khenifra,0-504-1-60201,60201,Land (fixed),32.9394,-5.668,868,,Morocco,1,Operational,Partly operational,MAR NMHS 
+Moulay Ali Cherif,0-504-1-60203,60203,Land (fixed),31.2827,-4.2669,771,,Morocco,1,Operational,Unknown,MAR NMHS 
+Mrirt,0-504-1-60204,60204,Land (fixed),33.17083,-5.5638,1113,,Morocco,1,Operational,Unknown,MAR NMHS 
+Chichaoua,0-504-1-60205,60205,Land (fixed),31.5416,-8.7666,372,,Morocco,1,Operational,Operational,MAR NMHS 
+Tata,0-504-1-60206,60206,Land (fixed),29.74083,-7.97361,723,,Morocco,1,Operational,Operational,MAR NMHS 
+Assa,0-504-1-60207,60207,Land (fixed),28.6155,-9.4505,342,,Morocco,1,Operational,Unknown,MAR NMHS 
+Sefrou,0-504-1-60211,60211,Land (fixed),33.8138,-4.8466,1060,,Morocco,1,Operational,Unknown,MAR NMHS 
+Boulemane,0-504-1-60212,60212,Land (fixed),33.3667,-4.7283,1745,,Morocco,1,Operational,Unknown,MAR NMHS 
+Jerrada,0-504-1-60214,60214,Land (fixed),34.3133,-2.1594,1069,,Morocco,1,Operational,Operational,MAR NMHS 
+Figuig,0-504-1-60215,60215,Land (fixed),32.10905,-1.2283,879,,Morocco,1,Operational,Unknown,MAR NMHS 
+Kelaat Mgouna,0-504-1-60216,60216,Land (fixed),31.2369,-6.1308,1440,,Morocco,1,Operational,Partly operational,MAR NMHS 
+Tafraout,0-504-1-60217,60217,Land (fixed),29.6364,-9.0956,887,,Morocco,1,Operational,Partly operational,MAR NMHS 
+Tamallalt,0-504-1-60221,60221,Land (fixed),31.8172,-7.5069,620,,Morocco,1,Operational,Unknown,MAR NMHS 
+Taounate,0-504-1-60224,60224,Land (fixed),34.5375,-4.6342,602,,Morocco,1,Operational,Unknown,MAR NMHS 
+Targuist,0-504-1-60225,60225,Land (fixed),34.9386,-4.3206,1036,,Morocco,1,Operational,Unknown,MAR NMHS 
+Zag,0-504-1-60226,60226,Land (fixed),28.0167,-9.2833,400,,Morocco,1,Operational,Partly operational,MAR NMHS 
+El Ksiba,0-504-1-60232,60232,Land (fixed),32.0955,-6.01666,1080,,Morocco,1,Operational,Unknown,MAR NMHS 
+Talmest,0-504-1-60234,60234,Land (fixed),31.81666,-9.3333,427,,Morocco,1,Operational,Unknown,MAR NMHS 
+El Gara,0-504-1-60235,60235,Land (fixed),33.2666,-7.23333,371,,Morocco,1,Operational,Unknown,MAR NMHS 
+Ait Daoud,0-504-1-60236,60236,Land (fixed),31.08333,-9.35,351,,Morocco,1,Operational,Unknown,MAR NMHS 
+Berrechid,0-504-1-60238,60238,Land (fixed),33.2672,-7.5831,216,,Morocco,1,Operational,Unknown,MAR NMHS 
+Azemmour,0-504-1-60239,60239,Land (fixed),33.295556,-8.330833,13,,Morocco,1,Operational,Unknown,Mounir Aziz
+Zaouiat Cheikh,0-504-1-60241,60241,Land (fixed),32.6842,-5.8814,722,,Morocco,1,Operational,Partly operational,MAR NMHS 
+Oulad Ayad,0-504-1-60242,60242,Land (fixed),32.2003,-6.7981,478,,Morocco,1,Operational,Unknown,MAR NMHS 
+Zemamra,0-504-1-60243,60243,Land (fixed),32.625,-8.7025,173,,Morocco,1,Operational,Unknown,MAR NMHS 
+Lakhssas,0-504-1-60245,60245,Land (fixed),29.3594,-9.7546,925,,Morocco,1,Operational,Unknown,MAR NMHS 
+Toubkal,0-504-1-60246,60246,Land (fixed),30.9928,-7.8164,1730,,Morocco,1,Operational,Unknown,MAR NMHS 
+Karia Ba Mohamed,0-504-1-60247,60247,Land (fixed),34.3666,-5.2,160,,Morocco,1,Operational,Unknown,MAR NMHS 
+Aoulouz,0-504-1-60248,60248,Land (fixed),29.88222,-8.442777,683,,Morocco,1,Operational,Unknown,MAR NMHS 
+Anza,0-504-1-60254,60254,Land (fixed),30.4342,-9.6422,50,,Morocco,1,Operational,Unknown,MAR NMHS 
+Arfoud,0-504-1-60255,60255,Land (fixed),31.4336,-4.2322,828,,Morocco,1,Operational,Unknown,MAR NMHS 
+Azilal,0-504-1-60258,60258,Land (fixed),31.9568,-6.5587,1385,,Morocco,1,Operational,Operational,MAR NMHS 
+Oulad Teima,0-504-1-60271,60271,Land (fixed),30.51222,-9.34833,138,,Morocco,1,Operational,Unknown,MAR NMHS 
+Ain Bni Mathar,0-504-1-60282,60282,Land (fixed),34.2425,-2.02688,936,,Morocco,1,Operational,Unknown,MAR NMHS 
+Talsint,0-504-1-60283,60283,Land (fixed),32.5333,-3.43333,1356,,Morocco,1,Operational,Unknown,MAR NMHS 
+Bouanane,0-504-1-60293,60293,Land (fixed),32.03333,-3.03333,871,,Morocco,1,Operational,Unknown,MAR NMHS 
+Thar Essouk,0-504-1-60297,60297,Land (fixed),34.65,-4.2666,522,,Morocco,1,Operational,Unknown,MAR NMHS 
+Selouane,0-504-1-60298,60298,Land (fixed),35.170833,-3.08805,62,,Morocco,1,Operational,Unknown,MAR NMHS 
+Imzouren,0-504-1-60299,60299,Land (fixed),35.1333,-3.83333,41,,Morocco,1,Operational,Unknown,MAR NMHS 
+Akka,0-504-1-60301,60301,Land (fixed),29.391944,-8.25777,540,,Morocco,1,Operational,Unknown,MAR NMHS 
+Bab Berred,0-504-1-60303,60303,Land (fixed),34.996111,-4.89527,1017,,Morocco,1,Operational,Unknown,MAR NMHS 
+Bir Anzarane,0-504-1-60304,60304,Land (fixed),29.1758,-9.7094,630,,Morocco,1,Operational,Unknown,MAR NMHS 
+Tafrant,0-504-1-60305,60305,Land (fixed),34.61666,-5.116666,299,,Morocco,1,Operational,Operational,MAR NMHS 
+Tiflet,0-504-1-60306,60306,Land (fixed),33.894166,-6.3222,35,,Morocco,1,Operational,Operational,MAR NMHS 
+Ourika,0-504-1-60308,60308,Land (fixed),31.366666,-7.8,886,,Morocco,1,Operational,Unknown,MAR NMHS 
+Ait Ourir,0-504-1-60309,60309,Land (fixed),31.55,-7.6667,936,,Morocco,1,Operational,Unknown,MAR NMHS 
+Bni Ansar,0-504-1-60312,60312,Land (fixed),35.267,-2.9252,3,,Morocco,1,Operational,Unknown,MAR NMHS 
+El Aioun Sidi Mellouk,0-504-1-60313,60313,Land (fixed),34.83083,-2.638333,977,,Morocco,1,Operational,Unknown,MAR NMHS 
+Barrage Bentachfine,0-504-1-60314,60314,Land (fixed),29.8825,-9.55722,170,,Morocco,1,Operational,Unknown,MAR NMHS 
+Taznakht,0-504-1-60315,60315,Land (fixed),30.72555,-7.220833,145,,Morocco,1,Operational,Unknown,MAR NMHS 
+Agdz,"0-504-1-60316,0-504-0-60316",60316,Land (fixed),30.686388,-6.55944,942,,Morocco,1,Operational,Unknown,Mounir Aziz
+Foum Zguid,0-504-1-60317,60317,Land (fixed),30.08805,-6.87472,700,,Morocco,1,Operational,Unknown,MAR NMHS 
+BILMA,0-20000-0-61017,61017,Land (fixed),18.6833333333,12.9166666667,355,,Niger,1,Operational,Partly operational,Jémilatou Abdoulaye
+CABO CARVOEIRO,0-20000-0-08530,08530,Land (fixed),39.35,-9.4,32,,Portugal,6,Operational,Unknown,Ricardo João Ratola Capela Deus
+CABO CARVOEIRO/FAROL,0-20000-0-08531,08531,Land (fixed),39.361408,-9.406981,32,,Portugal,6,Operational,Operational,Manuel Mendes
+SAGRES (8538-0),0-20000-0-08538,08538,Land (fixed),37,-8.95,25,,Portugal,6,Operational,Unknown,
+LPCS (CASCAIS AERODROME),0-20000-0-08578,08578,Land (fixed),38.7255555556,-9.3552777778,99,,Portugal,6,Operational,Unknown,
+SINTRA/GRANJA,"0-620-1003-08532,0-20000-0-08532",08532,Land (fixed),38.8342,-9.33853,134,,Portugal,6,Operational,Operational,Manuel Mendes
+MONTIJO,"0-620-1003-08534,0-20000-0-08534",08534,Land (fixed),38.71411,-9.02473,14,,Portugal,6,Operational,Partly operational,Manuel Mendes
+ALVERCA,"0-620-1003-08537,0-20000-0-08537",08537,Land (fixed),38.88662,-9.02992,3,,Portugal,6,Operational,Operational,Manuel Mendes
+OTA,"0-620-1003-08539,0-20000-0-08539",08539,Land (fixed),39.11667,-8.98333,41,,Portugal,6,Operational,Unknown,Ricardo João Ratola Capela Deus
+MONTE REAL,"0-620-1003-08540,0-20000-0-08540",08540,Land (fixed),39.82806,-8.88286,52,,Portugal,6,Operational,Partly operational,Manuel Mendes
+OVAR/MACEDA,"0-620-1003-08544,0-20000-0-08544",08544,Land (fixed),40.91584,-8.64119,17,,Portugal,6,Operational,Operational,Manuel Mendes
+TANCOS,"0-620-1003-08552,0-20000-0-08552",08552,Land (fixed),39.47576,-8.37504,83,,Portugal,6,Operational,Unknown,Ricardo João Ratola Capela Deus
+BEJA/B. AEREA,"0-620-1003-08561,0-20000-0-08561",08561,Land (fixed),38.0785,-7.92656,194,,Portugal,6,Operational,Operational,Manuel Mendes
+SAGRES (8533-0),"0-620-2001-08533,0-20000-0-08533",08533,Land (fixed),37.01275502,-8.94891335,22.85,,Portugal,6,Operational,Operational,Manuel Mendes
+LISBOA/GEOFISICO,"0-620-2001-08535,0-20000-0-08535",08535,Land (fixed),38.719078,-9.149722,77,,Portugal,6,Operational,Operational,Manuel Mendes
+LISBOA/PORTELA,"0-620-2001-08536,0-20000-0-08536",08536,Land (fixed),38.78914961,-9.13518651,103,,Portugal,6,Operational,Operational,Manuel Mendes
+SINES/MONTES CHAOS,"0-620-2001-08541,0-20000-0-08541",08541,Land (fixed),37.95452315,-8.8380462,97.93,,Portugal,6,Operational,Operational,Manuel Mendes
+PORTO/PEDRAS RUBRAS,"0-620-2001-08545,0-20000-0-08545,0-620-2001-08454",08454,Land (fixed),41.23222708,-8.67912964,67.73,,Portugal,6,Operational,Operational,Manuel Mendes
+COIMBRA/CERNACHE,"0-620-2001-08548,0-20000-0-08548",08548,Land (fixed),40.15764697,-8.4685105,170.79,,Portugal,6,Operational,Operational,Manuel Mendes
+VIANA DO CASTELO / C.C.,"0-620-2001-08551,0-20000-0-08551",08551,Land (fixed),41.64882036,-8.80474528,47.29,,Portugal,6,Operational,Operational,Manuel Mendes
+FARO/AEROPORTO,"0-620-2001-08554,0-20000-0-08554",08554,Land (fixed),37.01659132,-7.97190801,5,,Portugal,6,Operational,Operational,Manuel Mendes
+EVORA / C.C.,"0-620-2001-08558,0-20000-0-08558",08558,Land (fixed),38.53654394,-7.88797201,247.56,,Portugal,6,Operational,Operational,Manuel Mendes
+VISEU / C.C.,"0-620-2001-08560,0-20000-0-08560",08560,Land (fixed),40.7148171,-7.89594234,644.37,,Portugal,6,Operational,Partly operational,Ricardo João Ratola Capela Deus
+BEJA (8562-0),"0-620-2001-08562,0-20000-0-08562",08562,Land (fixed),38.025728,-7.867319,246,,Portugal,6,Operational,Operational,Manuel Mendes
+VILA REAL / C.C.,"0-620-2001-08567,0-20000-0-08567",08567,Land (fixed),41.27419764,-7.71708782,561.48,,Portugal,6,Operational,Operational,Ricardo João Ratola Capela Deus
+PENHAS DOURADAS,"0-620-2001-08568,0-20000-0-08568",08568,Land (fixed),40.411367,-7.558653,1380,,Portugal,6,Operational,Operational,Ricardo João Ratola Capela Deus
+CASTELO BRANCO,"0-620-2001-08570,0-20000-0-08570",08570,Land (fixed),39.839444,-7.478694,386,,Portugal,6,Operational,Operational,Ricardo João Ratola Capela Deus
+PORTALEGRE,"0-620-2001-08571,0-20000-0-08571",08571,Land (fixed),39.29419,-7.421202,596.57,,Portugal,6,Operational,Operational,Manuel Mendes
+BRAGANCA (8575-0),"0-620-2001-08575,0-20000-0-08575",08575,Land (fixed),41.80378747,-6.74283704,690.71,,Portugal,6,Operational,Operational,Ricardo João Ratola Capela Deus
+LISBOA/GAGO COUTINHO,"0-620-2001-08579,0-20000-0-08579",08579,Land (fixed),38.76617424,-9.12750152,103.88,,Portugal,6,Operational,Partly operational,Manuel Mendes
+PORTO/SERRA DO PILAR,"0-620-2401-08546,0-20000-0-08546,0-620-2001-08546",08546,Land (fixed),41.1384250639,-8.6025570861,94.81,,Portugal,6,Operational,Operational,Manuel Mendes
+LISBOA/PORTELA RS,0-620-3001-08536,08536,Land (fixed),38.77604,-9.12557,121.15,,Portugal,6,Operational,Unknown,Ricardo João Ratola Capela Deus
+"CORUCHE, CRUZ DO LEAO","0-620-3401-08550,0-20000-0-08550",08550,Land (fixed),39.07137,-8.39888,193,,Portugal,6,Operational,Unknown,Sérgio Barbosa
+"LOULE, CAVALOS DO CALDEIRAO","0-620-3401-08553,0-20000-0-08553",08553,Land (fixed),37.30534,-7.95174,616,,Portugal,6,Operational,Unknown,Sérgio Barbosa
+"AROUCA, PICO DO GRALHEIRO","0-620-3401-08556,0-620-3401-08526",08526,Land (fixed),40.845,-8.2797222222,1097,,Portugal,6,Operational,Unknown,Sérgio Barbosa
+VOGEL,0-20000-0-14006,14006,Land (fixed),46.2635473161,13.8408914626,1535,,Slovenia,6,Operational,Partly operational,Vesna Vidmar
+KREDARICA,0-20000-0-14008,14008,Land (fixed),46.3787671293,13.84893734,2514,,Slovenia,6,Operational,Operational,Vesna Vidmar
+VOJSKO,0-20000-0-14009,14009,Land (fixed),46.0249596201,13.9031141269,1067,,Slovenia,6,Operational,Partly operational,Miha DEMSAR
+LESCE,0-20000-0-14010,14010,Land (fixed),46.3619869701,14.1717817407,509,,Slovenia,6,Operational,Operational,Miha DEMSAR
+KATARINA,0-20000-0-14012,14012,Land (fixed),46.0930151722,14.3708431227,660,,Slovenia,6,Operational,Partly operational,Miha DEMSAR
+LJUBLJANA/BRNIK,0-20000-0-14014,14014,Land (fixed),46.2174517367,14.4727580758,364,,Slovenia,6,Operational,Partly operational,Miha DEMSAR
+LJUBLJANA/BEZIGRAD,0-20000-0-14015,14015,Land (fixed),46.0655056158,14.5123590017,299,,Slovenia,6,Operational,Operational,Miha DEMSAR
+CELJE,0-20000-0-14023,14023,Land (fixed),46.2365796296,15.225869749,241.73,,Slovenia,6,Operational,Partly operational,Miha DEMSAR
+LISCA,0-20000-0-14024,14024,Land (fixed),46.0677706239,15.2848952062,947,,Slovenia,6,Operational,Operational,Miha DEMSAR
+PORTOROZ/SECOVLJE,0-20000-0-14105,14105,Land (fixed),45.4752872079,13.6159599679,2,,Slovenia,6,Operational,Partly operational,Miha DEMSAR
+NOVA GORICA,0-20000-0-14106,14106,Land (fixed),45.895446637,13.6243092561,55,,Slovenia,6,Operational,Operational,Miha DEMSAR
+POSTOJNA,0-20000-0-14112,14112,Land (fixed),45.766104175,14.1928133051,533,,Slovenia,6,Operational,Partly operational,Miha DEMSAR
+KOCEVJE,0-20000-0-14118,14118,Land (fixed),45.6459669053,14.8501347394,467,,Slovenia,6,Operational,Partly operational,Miha DEMSAR
+CRNOMELJ,0-20000-0-14120,14120,Land (fixed),45.560032573,15.146057862,157,,Slovenia,6,Operational,Operational,Miha DEMSAR
+NOVO MESTO,0-20000-0-14121,14121,Land (fixed),45.8018157696,15.1772634275,220,,Slovenia,6,Operational,Operational,Miha DEMSAR
+CERKLJE OB KRKI,0-20000-0-14122,14122,Land (fixed),45.8987055971,15.5184432499,154,,Slovenia,6,Operational,Partly operational,Miha DEMSAR
+LA CORUNA,0-20000-0-08001,08001,Land (fixed),43.3658333333,-8.4213888889,58,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+LA CORUNA/ALVEDRO,0-20000-0-08002,08002,Land (fixed),43.3069444444,-8.3719444444,98,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+CERCEDA,0-20000-0-08007,08007,Land (fixed),43.1688888889,-8.5269444444,595,,Spain,6,Operational,Unknown,
+LUGO/ROZAS,0-20000-0-08008,08008,Land (fixed),43.1113888889,-7.4575,445,,Spain,6,Operational,Operational,
+ASTURIAS/AVILES,0-20000-0-08011,08011,Land (fixed),43.5669444444,-6.0441666667,127,,Spain,6,Operational,Operational,
+GIJON-MUSEL,0-20000-0-08014,08014,Land (fixed),43.56,-5.70056,5,,Spain,6,Operational,Unknown,José Miguel Gallardo Fernández
+OVIEDO,0-20000-0-08015,08015,Land (fixed),43.3533333333,-5.8741666667,336,,Spain,6,Operational,Operational,
+AGUION,0-20000-0-08019,08019,Land (fixed),43.4625,-6.3019444444,923,,Spain,6,Operational,Unknown,
+SANTANDER/PARAYAS,0-20000-0-08021,08021,Land (fixed),43.4291666667,-3.8313888889,5,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+SANTANDER,0-20000-0-08023,08023,Land (fixed),43.4911111111,-3.8005555556,52,,Spain,6,Operational,Operational,
+BILBAO/AEROPUERTO,0-20000-0-08025,08025,Land (fixed),43.2980555556,-2.9058333333,42,,Spain,6,Operational,Operational,
+SAN SEBASTIAN/IGUELDO,0-20000-0-08027,08027,Land (fixed),43.3063888889,-2.0411111111,251,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+SAN SEBASTIAN/FUENTERRABIA,0-20000-0-08029,08029,Land (fixed),43.3605555556,-1.7872222222,4,,Spain,6,Operational,Operational,
+SANTIAGO DE COMPOSTELA/LABACOLLA,0-20000-0-08042,08042,Land (fixed),42.8880555556,-8.4105555556,370,,Spain,6,Operational,Operational,
+PONTEVEDRA,0-20000-0-08044,08044,Land (fixed),42.4383333333,-8.6158333333,108,,Spain,6,Operational,Operational,
+VIGO/PEINADOR,0-20000-0-08045,08045,Land (fixed),42.2386111111,-8.6238888889,261,,Spain,6,Operational,Operational,
+ORENSE,0-20000-0-08048,08048,Land (fixed),42.3252777778,-7.8597222222,143,,Spain,6,Operational,Partly operational,
+PONFERRADA,0-20000-0-08053,08053,Land (fixed),42.5638888889,-6.6,534,,Spain,6,Operational,Operational,
+LEON/VIRGEN DEL CAMINO,0-20000-0-08055,08055,Land (fixed),42.588333,-5.651111,916,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+PALENCIA-AUTILLA PINO,0-20000-0-08072,08072,Land (fixed),41.9955555556,-4.6027777778,874,,Spain,6,Operational,Partly operational,Zulkarnain Zulkarnain
+BURGOS/VILLAFRIA,0-20000-0-08075,08075,Land (fixed),42.3561111111,-3.6213888889,891,,Spain,6,Operational,Operational,
+VITORIA/FORONDA,0-20000-0-08080,08080,Land (fixed),42.8719444444,-2.7333333333,513,,Spain,6,Operational,Operational,
+BAKIO,0-20000-0-08081,08081,Land (fixed),43.4033333333,-2.8419444444,576,,Spain,6,Operational,Unknown,
+LOGRONO/AGONCILLO,0-20000-0-08084,08084,Land (fixed),42.4522222222,-2.3311111111,353,,Spain,6,Operational,Operational,
+PAMPLONA/NOAIN,0-20000-0-08085,08085,Land (fixed),42.7769444444,-1.65,459,,Spain,6,Operational,Operational,
+HUESCA/PIRINEOS,0-20000-0-08094,08094,Land (fixed),42.0833333333,-0.3263888889,541,,Spain,6,Operational,Operational,
+ZAMORA,0-20000-0-08130,08130,Land (fixed),41.5155555556,-5.7352777778,656,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+VALLADOLID/VILLANUBLA,0-20000-0-08140,08140,Land (fixed),41.7119444444,-4.8555555556,846,,Spain,6,Operational,Partly operational,
+VALLADOLID,0-20000-0-08141,08141,Land (fixed),41.6408333333,-4.7544444444,735,,Spain,6,Operational,Operational,
+SORIA,0-20000-0-08148,08148,Land (fixed),41.775,-2.4830555556,1082,,Spain,6,Operational,Operational,
+DAROCA I,0-20000-0-08157,08157,Land (fixed),41.1144444444,-1.41,779,,Spain,6,Operational,Partly operational,
+ZARAGOZA/AEROPUERTO,0-20000-0-08160,08160,Land (fixed),41.6605555556,-1.0041666667,263,,Spain,6,Operational,Operational,
+PERDIGUERA,0-20000-0-08162,08162,Land (fixed),41.7338888889,-0.5458333333,820,,Spain,6,Operational,Unknown,
+LLEIDA,0-20000-0-08171,08171,Land (fixed),41.6261111111,0.5980555556,185,,Spain,6,Operational,Operational,
+REUS/AEROPUERTO,0-20000-0-08175,08175,Land (fixed),41.1497222222,1.1788888889,71,,Spain,6,Operational,Operational,
+"CORBERA, PIC D'AGULLES",0-20000-0-08179,08179,Land (fixed),41.4080555556,1.8847222222,647,,Spain,6,Operational,Unknown,
+BARCELONA/AEROPUERTO,0-20000-0-08181,08181,Land (fixed),41.2927777778,2.07,4,,Spain,6,Operational,Operational,
+GIRONA/COSTA BRAVA,0-20000-0-08184,08184,Land (fixed),41.9116666667,2.7633333333,143,,Spain,6,Operational,Operational,
+BARCELONA SERVEI,0-20000-0-08190,08190,Land (fixed),41.3844444444,2.1180555556,95,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+SALAMANCA/MATACAN,0-20000-0-08202,08202,Land (fixed),40.9594444444,-5.4983333333,790,,Spain,6,Operational,Operational,
+AVILA,0-20000-0-08210,08210,Land (fixed),40.6591666667,-4.68,1130,,Spain,6,Operational,Operational,
+SEGOVIA,0-20000-0-08213,08213,Land (fixed),40.9452777778,-4.1263888889,1005,,Spain,6,Operational,Operational,
+"NAVACERRADA, PUERTO",0-20000-0-08215,08215,Land (fixed),40.7930555556,-4.0105555556,1894,,Spain,6,Operational,Operational,
+COLMENAR VIEJO/FAMET,0-20000-0-08219,08219,Land (fixed),40.6961111111,-3.765,1004,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+MADRID/C. UNIVERSITARIA,0-20000-0-08220,08220,Land (fixed),40.4516666667,-3.7241666667,664,,Spain,6,Operational,Partly operational,
+MADRID/BARAJAS,0-20000-0-08221,08221,Land (fixed),40.4666666667,-3.5555555556,609,,Spain,6,Operational,Operational,
+"MADRID, RETIRO",0-20000-0-08222,08222,Land (fixed),40.4119444444,-3.6780555556,667,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+MADRID/CUATRO VIENTOS,0-20000-0-08223,08223,Land (fixed),40.3755555556,-3.7861111111,690,,Spain,6,Operational,Partly operational,
+MADRID/GETAFE,0-20000-0-08224,08224,Land (fixed),40.2994444444,-3.7222222222,620,,Spain,6,Operational,Partly operational,
+GUADALAJARA,0-20000-0-08226,08226,Land (fixed),40.6302777778,-3.15,721,,Spain,6,Operational,Operational,
+MADRID/TORREJON,0-20000-0-08227,08227,Land (fixed),40.4833333333,-3.4436111111,607,,Spain,6,Operational,Unknown,
+TORREJON DE VELASCO,0-20000-0-08228,08228,Land (fixed),40.1758333333,-3.7136111111,704,,Spain,6,Operational,Unknown,
+CUENCA,0-20000-0-08231,08231,Land (fixed),40.0672222222,-2.1319444444,945,,Spain,6,Operational,Operational,
+MOLINA DE ARAGON,0-20000-0-08232,08232,Land (fixed),40.8444444444,-1.8788888889,1062,,Spain,6,Operational,Operational,
+CALAMOCHA,0-20000-0-08233,08233,Land (fixed),40.9261111111,-1.2933333333,890,,Spain,6,Operational,Operational,
+TERUEL,0-20000-0-08235,08235,Land (fixed),40.3505555556,-1.1241666667,900,,Spain,6,Operational,Operational,
+TORTOSA,0-20000-0-08238,08238,Land (fixed),40.8202777778,0.4933333333,50.47,,Spain,6,Operational,Operational,
+CACERES (8261-0),0-20000-0-08261,08261,Land (fixed),39.4713888889,-6.3388888889,394,,Spain,6,Operational,Operational,
+SIERRA DE FUENTES,0-20000-0-08262,08262,Land (fixed),39.4288888889,-6.2852777778,652,,Spain,6,Operational,Unknown,
+TOLEDO (8272-0),0-20000-0-08272,08272,Land (fixed),39.8847222222,-4.0452777778,515,,Spain,6,Operational,Operational,
+ALBACETE/LOS LLANOS,0-20000-0-08280,08280,Land (fixed),38.9516666667,-1.8625,702,,Spain,6,Operational,Operational,
+VALENCIA/AEROPUERTO,0-20000-0-08284,08284,Land (fixed),39.485,-0.4747222222,59.9,,Spain,6,Operational,Operational,
+VALENCIA VIVEROS,0-20000-0-08285,08285,Land (fixed),39.4805555556,-0.3663888889,11,,Spain,6,Operational,Partly operational,Zulkarnain Zulkarnain
+CASTELLON-ALMAZORA,0-20000-0-08286,08286,Land (fixed),39.9572222222,-0.0719444444,42.9,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+CULLERA,0-20000-0-08289,08289,Land (fixed),39.1761111111,-0.2511111111,234,,Spain,6,Operational,Unknown,
+"PALMA DE MALLORCA, CMT",0-20000-0-08301,08301,Land (fixed),39.5552,2.6253,3,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+MALLORCA-SON BONET,0-20000-0-08302,08302,Land (fixed),39.6058333333,2.7066666667,41,,Spain,6,Operational,Operational,
+PALMA DE MALLORCA/SON SAN JUAN,0-20000-0-08306,08306,Land (fixed),39.5608333333,2.7366666667,8,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+LLUCMAYOR,0-20000-0-08308,08308,Land (fixed),39.3797222222,2.785,113,,Spain,6,Operational,Unknown,
+MENORCA/AEROPUERTO,0-20000-0-08314,08314,Land (fixed),39.8547222222,4.2155555556,91,,Spain,6,Operational,Operational,
+BADAJOZ/TALAVERA LA REAL,0-20000-0-08330,08330,Land (fixed),38.8833333333,-6.81389,185,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+CIUDAD REAL,0-20000-0-08348,08348,Land (fixed),38.9891666667,-3.9202777778,628,,Spain,6,Operational,Operational,
+ALICANTE,0-20000-0-08359,08359,Land (fixed),38.3725,-0.4941666667,81,,Spain,6,Operational,Operational,
+ALICANTE/EL ALTET,0-20000-0-08360,08360,Land (fixed),38.2827777778,-0.5708333333,43,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+FORTUNA,0-20000-0-08364,08364,Land (fixed),38.2644444444,-1.1897222222,1261,,Spain,6,Operational,Unknown,
+IBIZA/ES CODOLA,0-20000-0-08373,08373,Land (fixed),38.8763888889,1.3844444444,6,,Spain,6,Operational,Operational,
+HUELVA,0-20000-0-08383,08383,Land (fixed),37.2783333333,-6.9116666667,19,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+CASTILLO LAS GUARDAS,0-20000-0-08386,08386,Land (fixed),37.6875,-6.3344444444,517,,Spain,6,Operational,Unknown,
+SEVILLA/SAN PABLO,0-20000-0-08391,08391,Land (fixed),37.4166666667,-5.8791666667,34,,Spain,6,Operational,Operational,
+MORON DE LA FRONTERA,0-20000-0-08397,08397,Land (fixed),37.1644444444,-5.6113888889,87,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+CORDOBA/AEROPUERTO,0-20000-0-08410,08410,Land (fixed),37.8488888889,-4.8466666667,90,,Spain,6,Operational,Operational,
+JAEN (8417-0),0-20000-0-08417,08417,Land (fixed),37.7775,-3.8088888889,580,,Spain,6,Operational,Operational,
+GRANADA/AEROPUERTO,0-20000-0-08419,08419,Land (fixed),37.1897222222,-3.7894444444,567,,Spain,6,Operational,Operational,
+GRANADA/BASE AEREA,0-20000-0-08420,08420,Land (fixed),37.1372222222,-3.6313888889,687,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+MURCIA/AL CANTARILLA,0-20000-0-08429,08429,Land (fixed),37.9577777778,-1.2286111111,75,,Spain,6,Operational,Partly operational,
+MURCIA,0-20000-0-08430,08430,Land (fixed),38.0019444444,-1.1708333333,61,,Spain,6,Operational,Operational,
+MURCIA/SAN JAVIER,0-20000-0-08433,08433,Land (fixed),37.7888888889,-0.8033333333,4,,Spain,6,Operational,Operational,
+ROTA B.N. OBSERVATORIO,0-20000-0-08449,08449,Land (fixed),36.6388888889,-6.3325,21,,Spain,6,Operational,Unknown,
+JEREZ DE LA FRONTERA AEROPUERTO,0-20000-0-08451,08451,Land (fixed),36.7505555556,-6.0558333333,27,,Spain,6,Operational,Operational,
+"CADIZ, OBS.",0-20000-0-08452,08452,Land (fixed),36.4997222222,-6.2577777778,2,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+ALHAURIN EL GRANDE,0-20000-0-08475,08475,Land (fixed),36.6133333333,-4.6591666667,1147,,Spain,6,Operational,Unknown,
+MALAGA/AEROPUERTO,0-20000-0-08482,08482,Land (fixed),36.6661111111,-4.4822222222,5,,Spain,6,Operational,Operational,
+ALMERIA/AEROPUERTO,0-20000-0-08487,08487,Land (fixed),36.8463888889,-2.3569444444,21,,Spain,6,Operational,Operational,
+NIJAR,0-20000-0-08489,08489,Land (fixed),36.8325,-2.0822222222,486,,Spain,6,Operational,Unknown,
+"ARAGUES DEL PUERTO, LIZARRA",0-20000-0-08911,08911,Land (fixed),42.765,-0.6275,1540,,Spain,6,Operational,Operational,
+"ISABA,  EL FERIAL",0-20000-0-08912,08912,Land (fixed),42.9580555556,-0.8,1591,,Spain,6,Operational,Unknown,
+"ANSO, REFUGIO DE LINZA",0-20000-0-08913,08913,Land (fixed),42.8977777778,-0.7988888889,1340,,Spain,6,Operational,Operational,
+"CANDANCHU, ETUKSA",0-20000-0-08914,08914,Land (fixed),42.7875,-0.5383333333,1560,,Spain,6,Operational,Unknown,
+"SALLENT DE GALLEGO,  FURCO",0-20000-0-08917,08917,Land (fixed),42.7605555556,-0.3847222222,1855,,Spain,6,Operational,Unknown,
+"SALLENT DE GALLEGO,  FORMIGAL",0-20000-0-08918,08918,Land (fixed),42.7744444444,-0.3688888889,1500,,Spain,6,Operational,Unknown,
+"SALLENT DE GALLEGO,  RESPOMUSO",0-20000-0-08920,08920,Land (fixed),42.8166666667,-0.2961111111,2145,,Spain,6,Operational,Operational,
+"PANTICOSA, REFUGIO CASA PIEDRA",0-20000-0-08922,08922,Land (fixed),42.7625,-0.2333333333,1645,,Spain,6,Operational,Operational,
+"PANTICOSA, ESQUI",0-20000-0-08924,08924,Land (fixed),42.7033333333,-0.2766666667,1830,,Spain,6,Operational,Unknown,
+"BIELSA, REFUGIO DE PINETA",0-20000-0-08927,08927,Land (fixed),42.6677777778,0.0975,1240,,Spain,6,Operational,Operational,
+"BENASQUE, REFUGIO DE ESTOS",0-20000-0-08928,08928,Land (fixed),42.6752777778,0.4813888889,1890,,Spain,6,Operational,Operational,
+"CERLER, ESQU COTA 2000",0-20000-0-08930,08930,Land (fixed),42.5655555556,0.5441666667,2020,,Spain,6,Operational,Unknown,
+BOI TAHULL,0-20000-0-08932,08932,Land (fixed),42.4783333333,0.8677777778,2280,,Spain,6,Operational,Unknown,
+CAP DE RAC,0-20000-0-08940,08940,Land (fixed),42.4302777778,1.6677777778,1940,,Spain,6,Operational,Operational,
+PORT DEL COMTE,0-20000-0-08942,08942,Land (fixed),42.1680555556,1.565,1813,,Spain,6,Operational,Unknown,
+NURIA,0-20000-0-08946,08946,Land (fixed),42.3938888889,2.1555555556,1967,,Spain,6,Operational,Unknown,
+VALLTER 2000,0-20000-0-08948,08948,Land (fixed),42.4275,2.2655555556,2167,,Spain,6,Operational,Unknown,
+CAMARENA DE LA SIERRA,0-20000-0-08958,08958,Land (fixed),40.1152777778,-1.0344444444,1520,,Spain,6,Operational,Unknown,
+"VALDELINARES, ESQUI",0-20000-0-08960,08960,Land (fixed),40.3819444444,-0.6344444444,1955,,Spain,6,Operational,Operational,
+CEUTA,0-20000-0-60320,60320,Land (fixed),35.88873,-5.34697,87,,Spain,1,Operational,Operational,José Miguel Gallardo Fernández
+MELILLA (60338-0),0-20000-0-60338,60338,Land (fixed),35.2777777778,-2.9555555556,47,,Spain,1,Operational,Partly operational,
+MADRID/BARAJAS RS,0-20001-0-08221,08221,Land (fixed),40.4652777778,-3.5797222222,631,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+BENS-A CORUÑA,0-724-0-0000000000008001,08001,Land (fixed),43.3633,-8.4417,132,,Spain,6,Operational,Unknown,José Miguel Gallardo Fernández
+ESTACA DE BARES,0-724-0-0000000000008004,08004,Land (fixed),43.786111,-7.684722,80,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+FERROL-LA GRAÑA,0-724-0-0000000000008005,08005,Land (fixed),43.4763,-8.2622,4,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+CABO VILAN,0-724-0-0000000000008006,08006,Land (fixed),43.1605,-9.2108,50,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+CASTROPOL,0-724-0-0000000000008009,08009,Land (fixed),43.5247,-7.0313,40,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+CABO BUSTO,0-724-0-0000000000008010,08010,Land (fixed),43.5691,-6.4699,60,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+CABO PEÑAS,0-724-0-0000000000008012,08012,Land (fixed),43.6559,-5.8485,100,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+LLANES,0-724-0-0000000000008016,08016,Land (fixed),43.4202,-4.748,10,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+"SAN VICENTE, FARO",0-724-0-0000000000008017,08017,Land (fixed),43.3934,-4.3921,38,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+CASTRO URDIALES-EDAR,0-724-0-0000000000008020,08020,Land (fixed),43.3947,-3.2338,45,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+"LEKEITIO,FARO",0-724-0-0000000000008024,08024,Land (fixed),43.3769,-2.5102,12,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+"ZUMAYA,FARO",0-724-0-0000000000008026,08026,Land (fixed),43.3021,-2.251,28,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+IRURITA,0-724-0-0000000000008030,08030,Land (fixed),43.1357,-1.5429,183,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+PAJARES - VALGRANDE,0-724-0-0000000000008031,08031,Land (fixed),42.9786,-5.7763,1480,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+NESTARES,0-724-0-0000000000008032,08032,Land (fixed),42.9918,-4.1605,870,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+POLIENTES-CASYC,0-724-0-0000000000008033,08033,Land (fixed),42.8062,-3.9339,720,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+GÜEÑES,0-724-0-0000000000008035,08035,Land (fixed),43.2033,-3.1047,208,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+"ELGOIBAR,IBERDROLA",0-724-0-0000000000008036,08036,Land (fixed),43.2092,-2.4132,119,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+ZUMARRAGA-URZABALETA,0-724-0-0000000000008037,08037,Land (fixed),43.0799,-2.3175,420,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+PADRÓN,0-724-0-0000000000008039,08039,Land (fixed),42.7383,-8.6272,100,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+FISTERRA,0-724-0-0000000000008040,08040,Land (fixed),42.9248,-9.2914,230,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+SANTIAGO DE COMPOSTELA,0-724-0-0000000000008041,08041,Land (fixed),42.8761,-8.5558,240,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+O CARBALLIÑO,0-724-0-0000000000008047,08047,Land (fixed),42.4213,-8.0925,400,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+XINZO DE LIMIA,0-724-0-0000000000008050,08050,Land (fixed),42.0791,-7.7336,616,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+"POBRA DE TRIVES,SAN MAMEDE",0-724-0-0000000000008051,08051,Land (fixed),42.3394,-7.2824,840,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+PUERTO DE LEITARIEGOS,0-724-0-0000000000008052,08052,Land (fixed),42.9942,-6.4142,1530,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+BENAVENTE,0-724-0-0000000000008056,08056,Land (fixed),42.0109,-5.6668,715,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+PUERTO DE SAN ISIDRO,0-724-0-0000000000008057,08057,Land (fixed),43.0622,-5.377,1510,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+CERVERA DE PISUERGA,0-724-0-0000000000008058,08058,Land (fixed),42.8706,-4.52,1140,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+PUNTA GALEA,0-724-0-0000000000008059,08059,Land (fixed),43.375,-3.0216,90,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+ALTO CAMPOO,0-724-0-0000000000008061,08061,Land (fixed),43.0366,-4.3744,1650,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+MEDINA DE POMAR,0-724-0-0000000000008063,08063,Land (fixed),42.9199,-3.4826,580,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+CARRIÓN DE LOS CONDES,0-724-0-0000000000008068,08068,Land (fixed),42.3509,-4.6173,830,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+BELORADO,0-724-0-0000000000008077,08077,Land (fixed),42.4211,-3.1702,820,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+BARDENAS REALES,0-724-0-0000000000008087,08087,Land (fixed),42.1985,-1.4751,295,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+ILUNDAIN,0-724-0-0000000000008089,08089,Land (fixed),42.7761,-1.5324,572,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+SOS DEL REY CATÓLICO,0-724-0-0000000000008090,08090,Land (fixed),42.4908,-1.2133,626,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+JACA,0-724-0-0000000000008091,08091,Land (fixed),42.5788,-0.547,823,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+ARAGÜES DEL PUERTO,0-724-0-0000000000008095,08095,Land (fixed),42.708,-0.673,1040,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+FORMIGAL-SARRIOS,0-724-0-0000000000008096,08096,Land (fixed),42.7614,-0.3924,1800,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+BIELSA,0-724-0-0000000000008103,08103,Land (fixed),42.6299,0.2247,992,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+ARTIES,0-724-0-0000000000008107,08107,Land (fixed),42.7002,0.8769,1161,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+TALARN,0-724-0-0000000000008112,08112,Land (fixed),42.2047,0.8647,807,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+LA SEO D´URGELL,0-724-0-0000000000008115,08115,Land (fixed),42.3547,1.4627,677,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+LA MOLINA,0-724-0-0000000000008117,08117,Land (fixed),42.3325,1.9394,1703,,Spain,6,Operational,Unknown,José Antonio Fernández Monistrol
+RIPOLL,0-724-0-0000000000008118,08118,Land (fixed),42.1913,2.1961,675,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+Sant Julià de Vilatorta,0-724-0-0000000000008119,08119,Land (fixed),41.9262,2.3176,578,,Spain,6,Unknown,Silent,José Miguel Gallardo Fernández
+PORQUERES,0-724-0-0000000000008120,08120,Land (fixed),42.1044,2.7636,157,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+LAGUNAS DE SOMOZA,0-724-0-0000000000008123,08123,Land (fixed),42.3774,-6.1966,1020,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+VILLARDECIERVOS,0-724-0-0000000000008125,08125,Land (fixed),41.9415,-6.2796,850,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+VITIGUDINO,0-724-0-0000000000008129,08129,Land (fixed),41.0114,-6.4377,769,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+"LA PINILLA, ESTACIÓN DE ESQUÍ",0-724-0-0000000000008143,08143,Land (fixed),41.1919,-3.4751,1798,,Spain,6,Operational,Unknown,José Antonio Fernández Monistrol
+ARANDA DE DUERO,0-724-0-0000000000008144,08144,Land (fixed),41.6658,-3.7427,790,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+SOMOSIERRA,0-724-0-0000000000008145,08145,Land (fixed),41.1356,-3.5804,1450,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+BUITRAGO,0-724-0-0000000000008146,08146,Land (fixed),41.0069,-3.6138,1030,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+PALACIOS DE LA SIERRA,0-724-0-0000000000008149,08149,Land (fixed),41.9596,-3.1316,1080,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+SIGÜENZA,0-724-0-0000000000008150,08150,Land (fixed),41.0862,-2.6179,1005,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+CALATAYUD,0-724-0-0000000000008156,08156,Land (fixed),41.331,-1.6452,582,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+ZARAGOZA-VALDESPARTERA,0-724-0-0000000000008159,08159,Land (fixed),41.6205,-0.935,254,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+ALCAÑIZ,0-724-0-0000000000008164,08164,Land (fixed),41.058,-0.1415,334,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+CASPE-PLANA DEL PILÓN,0-724-0-0000000000008165,08165,Land (fixed),41.2425,-0.0686,202,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+CALANDA,0-724-0-0000000000008166,08166,Land (fixed),40.9465,-0.2376,466,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+VANDELLÓS,0-724-0-0000000000008169,08169,Land (fixed),40.958,0.8713,32,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+IGUALADA,0-724-0-0000000000008172,08172,Land (fixed),41.5788,1.6177,313,,Spain,6,Operational,Partly operational,ESP NMHS
+TÁRREGA,0-724-0-0000000000008173,08173,Land (fixed),41.6505,1.1494,363,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+MANRESA,0-724-0-0000000000008174,08174,Land (fixed),41.7198,1.8402,291,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+"BARCELONA,CMT",0-724-0-0000000000008180,08180,Land (fixed),41.3905,2.2,6,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+ARENYS DE MAR,0-724-0-0000000000008186,08186,Land (fixed),41.5872,2.54,74,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+SANTA SUSANA,0-724-0-0000000000008188,08188,Land (fixed),41.6508,2.6969,40,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+SAELICES EL CHICO,0-724-0-0000000000008195,08195,Land (fixed),40.635,-6.6,680,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+"SALAMANCA,OBS.",0-724-0-0000000000008201,08201,Land (fixed),40.9575,-5.6622,775,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+"LA COVATILLA, ESTACIÓN DE ESQUÍ",0-724-0-0000000000008205,08205,Land (fixed),40.355,-5.6898,1960,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+NAVARREDONDA DE GREDOS,0-724-0-0000000000008206,08206,Land (fixed),40.3504,-5.1429,1525,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+SOTILLO DE LA ADRADA,0-724-0-0000000000008208,08208,Land (fixed),40.2885,-4.5909,630,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+ROBLEDO DE CHAVELA,0-724-0-0000000000008212,08212,Land (fixed),40.4277,-4.2499,763,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+ALTO DE LOS LEONES,0-724-0-0000000000008217,08217,Land (fixed),40.7063,-4.1418,1532,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+Torrelodones,0-724-0-0000000000008218,08218,Land (fixed),40.5789,-3.9408,879,,Spain,6,Unknown,Silent,José Miguel Gallardo Fernández
+"MADRID, C. UNIVERSITARIA",0-724-0-0000000000008220,08220,Land (fixed),40.4516,-3.7241,664,,Spain,6,Operational,Silent,ESPGOS NMHS 
+"MADRID,RETIRO",0-724-0-0000000000008222,08222,Land (fixed),40.4118,-3.678,667,,Spain,6,Operational,Silent,ESPGOS NMHS 
+ARANJUEZ,0-724-0-0000000000008229,08229,Land (fixed),40.0671,-3.546,540,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+CAÑIZARES,0-724-0-0000000000008230,08230,Land (fixed),40.5303,-2.15,928,,Spain,6,Operational,Silent,José Miguel Gallardo Fernández
+CASTELLFORT,0-724-0-0000000000008237,08237,Land (fixed),40.4986,-0.1866,1220,,Spain,6,Operational,Partly operational,ESP NMHS
+VINAROZ,0-724-0-0000000000008239,08239,Land (fixed),40.5542,0.4296,110,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+SANT JAUME,0-724-0-0000000000008240,08240,Land (fixed),40.6991,0.8097,1,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+VILLAFRANCA,0-724-0-0000000000008241,08241,Land (fixed),40.4332,-0.2556,1130,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+CORIA,0-724-0-0000000000008251,08251,Land (fixed),40.0035,-6.5575,313,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+PLASENCIA,0-724-0-0000000000008252,08252,Land (fixed),40.043056,-6.085833,415,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+NAVALMORAL DE LA MATA,0-724-0-0000000000008254,08254,Land (fixed),39.9457,-5.5826,269,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+SAN CLEMENTE,0-724-0-0000000000008256,08256,Land (fixed),39.4167,-2.4206,728,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+VALENCIA DE ALCÁNTARA,0-724-0-0000000000008260,08260,Land (fixed),39.4148,-7.2311,444,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+TRUJILLO,0-724-0-0000000000008263,08263,Land (fixed),39.4824,-5.854,503,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+HERRERA DEL DUQUE,0-724-0-0000000000008264,08264,Land (fixed),39.1693,-5.0622,447,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+PUEBLA DE DON RODRIGO,0-724-0-0000000000008271,08271,Land (fixed),39.0888,-4.6164,486,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+MADRIDEJOS,0-724-0-0000000000008273,08273,Land (fixed),39.492,-3.5283,690,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+TALAVERA DE LA REINA,0-724-0-0000000000008274,08274,Land (fixed),39.9586,-4.8635,372,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+QUINTANAR DE LA ORDEN,0-724-0-0000000000008275,08275,Land (fixed),39.5975,-3.0469,691,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+TOMELLOSO,0-724-0-0000000000008276,08276,Land (fixed),39.169,-3.0074,662,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+TARANCÓN,0-724-0-0000000000008277,08277,Land (fixed),40.012,-3.0213,808,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+CHINCHILLA/CENAD,0-724-0-0000000000008278,08278,Land (fixed),38.9375,-1.6588,880,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+"ALBACETE,OBS.",0-724-0-0000000000008279,08279,Land (fixed),39.0055,-1.8623,676,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+"UTIEL, LA CUBERA",0-724-0-0000000000008281,08281,Land (fixed),39.5754,-1.2447,758,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+OLIVA,0-724-0-0000000000008282,08282,Land (fixed),38.9288,-0.0958,5,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+POLINYA,0-724-0-0000000000008287,08287,Land (fixed),39.1847,-0.3719,12,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+XÁTIVA,0-724-0-0000000000008290,08290,Land (fixed),39.0016,-0.523,88,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+PALMA-PORTOPÍ,0-724-0-0000000000008301,08301,Land (fixed),39.5533,2.6252,3,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+"SON BONET, AEROPUERTO",0-724-0-0000000000008302,08302,Land (fixed),39.6058,2.7067,49.3,,Spain,6,Operational,Unknown,José Miguel Gallardo Fernández
+SIERRA DE ALFABIA,0-724-0-0000000000008303,08303,Land (fixed),39.7349,2.713,1030,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+LLUC,0-724-0-0000000000008304,08304,Land (fixed),39.8233,2.8858,490,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+PORTO COLOM,0-724-0-0000000000008309,08309,Land (fixed),39.4145,3.2716,17,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+PORRERES,0-724-0-0000000000008310,08310,Land (fixed),39.5216,3.0191,120,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+CAPDEPERA-FARO,0-724-0-0000000000008311,08311,Land (fixed),39.7155,3.478,66,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+SA POBLA-SA CANOVA,0-724-0-0000000000008312,08312,Land (fixed),39.7491,3.0166,40,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+Sóller,0-724-0-0000000000008316,08316,Land (fixed),39.795554,2.691486,5,,Spain,6,Unknown,Operational,José Miguel Gallardo Fernández
+MÉRIDA,0-724-0-0000000000008331,08331,Land (fixed),38.9158,-6.3856,228,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+DON BENITO,0-724-0-0000000000008333,08333,Land (fixed),38.9555,-5.8804,273,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+HINOJOSA DEL DUQUE,0-724-0-0000000000008335,08335,Land (fixed),38.4983,-5.1214,551,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+LLERENA,0-724-0-0000000000008336,08336,Land (fixed),38.2317,-6.017,655,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+JEREZ DE LOS CABALLEROS,0-724-0-0000000000008337,08337,Land (fixed),38.2985,-6.765,381,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+VISO DEL MARQUÉS,0-724-0-0000000000008345,08345,Land (fixed),38.518,-3.5667,804,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+VILLANUEVA DE CÓRDOBA,0-724-0-0000000000008346,08346,Land (fixed),38.333,-4.6088,750,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+ANDÚJAR,0-724-0-0000000000008347,08347,Land (fixed),38.023,-4.0638,202,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+SANTA ELENA,0-724-0-0000000000008350,08350,Land (fixed),38.3444,-3.5352,770,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+VALDEPEÑAS,0-724-0-0000000000008351,08351,Land (fixed),38.7504,-3.3913,700,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+ARROYO DEL OJANCO,0-724-0-0000000000008352,08352,Land (fixed),38.3147,-2.8897,580,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+VILLARRODRIGO,0-724-0-0000000000008354,08354,Land (fixed),38.4892,-2.6375,862,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+HELLÍN,0-724-0-0000000000008355,08355,Land (fixed),38.542,-1.703,646,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+YECLA,0-724-0-0000000000008356,08356,Land (fixed),38.6017,-1.1596,640,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+PINOSO,0-724-0-0000000000008357,08357,Land (fixed),38.3995,-1.0379,575,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+"CIEZA, PARQUE DE BOMBEROS",0-724-0-0000000000008363,08363,Land (fixed),38.2327,-1.3805,265,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+"CARAVACA,FUENTES DEL MARQUÉS",0-724-0-0000000000008365,08365,Land (fixed),38.1031,-1.8771,643,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+"JÁVEA, AYUNTAMIENTO",0-724-0-0000000000008370,08370,Land (fixed),38.7841,0.1666,15,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+"ALAJAR, CABEZO MOLINOS",0-724-0-0000000000008380,08380,Land (fixed),37.8686,-6.6749,572,,Spain,6,Operational,Silent,José Antonio Fernández Monistrol
+"AYAMONTE, ISLA CANELA",0-724-0-0000000000008381,08381,Land (fixed),37.1947,-7.3949,2,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+EL ARENOSILLO,0-724-0-0000000000008384,08384,Land (fixed),37.0981,-6.7381,41,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+CAZALLA DE LA SIERRA,0-724-0-0000000000008392,08392,Land (fixed),37.9263,-5.7697,550,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+ECIJA,0-724-0-0000000000008395,08395,Land (fixed),37.5162,-5.0851,130,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+RODA DE ANDALUCÍA,0-724-0-0000000000008399,08399,Land (fixed),37.1944,-4.7699,410,,Spain,6,Operational,Partly operational,José Antonio Fernández Monistrol
+DOÑA MENCIA,0-724-0-0000000000008412,08412,Land (fixed),37.5561,-4.3538,650,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+ANTEQUERA-BOBADILLA,0-724-0-0000000000008413,08413,Land (fixed),37.0294,-4.7483,408,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+LOJA,0-724-0-0000000000008414,08414,Land (fixed),37.1611,-4.1527,760,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+"BAZA, CRUZ ROJA",0-724-0-0000000000008424,08424,Land (fixed),37.5058,-2.7349,785,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+LORCA,0-724-0-0000000000008426,08426,Land (fixed),37.6548,-1.6873,312,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+ABLA,0-724-0-0000000000008427,08427,Land (fixed),37.1413,-2.78,869,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+HUERCAL OVERA,0-724-0-0000000000008428,08428,Land (fixed),37.3905,-1.9436,300,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+ÁGUILAS,0-724-0-0000000000008432,08432,Land (fixed),37.4172,-1.5868,32,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+CARTAGENA - TENTEGORRA,0-724-0-0000000000008434,08434,Land (fixed),37.6044,-1.0233,55,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+"CÁDIZ,OBS.",0-724-0-0000000000008452,08452,Land (fixed),36.4997,-6.2578,2,,Spain,6,Operational,Silent,ESPGOS NMHS 
+SAN FERNANDO,0-724-0-0000000000008453,08453,Land (fixed),36.4655,-6.2055,28,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+GRAZALEMA,0-724-0-0000000000008455,08455,Land (fixed),36.7604,-5.374,913,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+VEJER DE LA FRONTERA,0-724-0-0000000000008457,08457,Land (fixed),36.2455,-5.965,186,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+TARIFA,0-724-0-0000000000008458,08458,Land (fixed),36.0139,-5.5988,32,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+ESTEPONA,0-724-0-0000000000008463,08463,Land (fixed),36.4169,-5.1549,19,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+"MÁLAGA,PUERTO",0-724-0-0000000000008479,08479,Land (fixed),36.7166,-4.4197,25,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+FUENGIROLA,0-724-0-0000000000008480,08480,Land (fixed),36.5384,-4.6182,8,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+"MÁLAGA,CMT",0-724-0-0000000000008481,08481,Land (fixed),36.7177,-4.4816,54,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+"TORROX,FARO",0-724-0-0000000000008484,08484,Land (fixed),36.7263,-3.9572,3,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+"MOTRIL,CLUB NAÚTICO",0-724-0-0000000000008485,08485,Land (fixed),36.7227,-3.5302,12,,Spain,6,Operational,Silent,José Miguel Gallardo Fernández
+"ADRA,CLUB NAÚTICO",0-724-0-0000000000008486,08486,Land (fixed),36.7471,-3.0205,8,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+CARBONERAS - FARO MESA ROLDÁN,0-724-0-0000000000008488,08488,Land (fixed),36.9794,-1.903,12,,Spain,6,Operational,Unknown,José Miguel Gallardo Fernández
+ROQUETAS DE MAR-FARO SABINAR,0-724-0-0000000000008492,08492,Land (fixed),36.6869,-2.7016,3,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+ASTÚN - LA RACA,0-724-0-0000000000008909,08909,Land (fixed),42.7931,-0.5053,2275.6,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+"PANTICOSA, PETROSOS",0-724-0-0000000000008915,08915,Land (fixed),42.7044,-0.2753,1850,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+"TORLA-ORDESA, EL CEBOLLAR",0-724-0-0000000000008919,08919,Land (fixed),42.6561,-0.1244,1905,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+"CERLER, COGULLA",0-724-0-0000000000008923,08923,Land (fixed),42.555,0.5431,2374.4,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+CAP DE VAQUEIRA,0-724-0-0000000000008936,08936,Land (fixed),42.6919,0.9739,2467,,Spain,6,Operational,Operational,José Miguel Gallardo Fernández
+"PORT AINE, L´ORRI",0-724-0-0000000000008938,08938,Land (fixed),42.41,1.2147,2410,,Spain,6,Operational,Partly operational,José Miguel Gallardo Fernández
+CAP DE REC,0-724-0-0000000000008940,08940,Land (fixed),42.4303,1.6675,1940,,Spain,6,Operational,Silent,José Miguel Gallardo Fernández
+Sierra Nevada,0-724-0-0000000000008980,08980,Land (fixed),37.0631,-3.3869,2856,,Spain,6,Silent,Operational,José Miguel Gallardo Fernández
+GIJÓN-CAMPUS,0-724-0-08014,08014,Land (fixed),43.5231,-5.6211,26,,Spain,6,Operational,Unknown,José Miguel Gallardo Fernández
+SAN SEBASTIÁN/FUENTERRABIA,0-724-0-08029,08029,Land (fixed),43.3571,-1.7921,4,,Spain,6,Operational,Unknown,José Miguel Gallardo Fernández
+VILLARRODRIGO,0-724-0-08354,08354,Land (fixed),38.4893,-2.6377,862,,Spain,6,Operational,Unknown,José Miguel Gallardo Fernández
+Refugio de Bachimaña,0-724-100-0000000000008921,08921,Land (fixed),42.7799,-0.2276,2200,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+"ERISTE, REFUGIO ANGEL ORUS",0-724-100-0000000000008925,08925,Land (fixed),42.6274,0.4573,2150,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+"FANLO, REFUGIO DE GORIZ",0-724-100-0000000000008926,08926,Land (fixed),42.6633,0.015,2200,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+Refugio de La Renclusa,0-724-100-0000000000008929,08929,Land (fixed),42.6693,0.6507,2138,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+Refugio Cap De Llauset,0-724-100-0000000000008931,08931,Land (fixed),42.5963,0.6831,2425,,Spain,6,Operational,Operational,José Antonio Fernández Monistrol
+LES MARECOTTES,0-20000-0-06614,06614,Land (fixed),46.1189,7.016606,990,,Switzerland,6,Operational,Operational,CHE NMHS 
+"MONTAGNIER, BAGNES",0-20000-0-06615,06615,Land (fixed),46.071019,7.225281,839,,Switzerland,6,Operational,Operational,CHE NMHS 
+SIMPLON-DORF,0-20000-0-06654,06654,Land (fixed),46.196942,8.055422,1465,,Switzerland,6,Operational,Operational,CHE NMHS 
+LA DOLE (6699-0),0-20000-0-06699,06699,Land (fixed),46.425,6.0991666667,1680,,Switzerland,6,Operational,Unknown,
+GENEVE / COINTRIN,0-20000-0-06700,06700,Land (fixed),46.247517,6.12775,410.88,,Switzerland,6,Operational,Operational,CHE NMHS 
+LA DOLE (6702-0),0-20000-0-06702,06702,Land (fixed),46.424789,6.099461,1669.75,,Switzerland,6,Operational,Operational,CHE NMHS 
+NYON / CHANGINS,0-20000-0-06705,06705,Land (fixed),46.401047,6.227728,455,,Switzerland,6,Operational,Operational,CHE NMHS 
+BOUVERET,0-20000-0-06709,06709,Land (fixed),46.393444,6.857011,374,,Switzerland,6,Operational,Operational,CHE NMHS 
+AIGLE,0-20000-0-06712,06712,Land (fixed),46.326644,6.924478,381.02,,Switzerland,6,Operational,Operational,CHE NMHS 
+COL DES MOSSES,0-20000-0-06713,06713,Land (fixed),46.391522,7.098247,1412,,Switzerland,6,Operational,Operational,CHE NMHS 
+LES DIABLERETS,0-20000-0-06714,06714,Land (fixed),46.326747,7.203786,2964,,Switzerland,6,Operational,Operational,CHE NMHS 
+EVIONNAZ,0-20000-0-06715,06715,Land (fixed),46.18295,7.026756,482,,Switzerland,6,Operational,Operational,CHE NMHS 
+MOTTEC,0-20000-0-06716,06716,Land (fixed),46.147903,7.624042,1580,,Switzerland,6,Operational,Operational,CHE NMHS 
+COL DU GRAND ST-BERNARD,0-20000-0-06717,06717,Land (fixed),45.869092,7.170697,2472,,Switzerland,6,Operational,Operational,Lucia Cappelletti
+NOVILLE,0-20000-0-06718,06718,Land (fixed),46.3827777778,6.8980555556,373,,Switzerland,6,Operational,Unknown,
+SION (6720-0),0-20000-0-06720,06720,Land (fixed),46.218647,7.330211,482,,Switzerland,6,Operational,Operational,CHE NMHS 
+BINN,0-20000-0-06721,06721,Land (fixed),46.367667,8.192306,1479,,Switzerland,6,Operational,Operational,CHE NMHS 
+EVOLENE / VILLA,0-20000-0-06722,06722,Land (fixed),46.112214,7.508639,1825,,Switzerland,6,Operational,Operational,CHE NMHS 
+LES ATTELAS,0-20000-0-06723,06723,Land (fixed),46.099097,7.268658,2735.21,,Switzerland,6,Operational,Operational,CHE NMHS 
+MONTANA,0-20000-0-06724,06724,Land (fixed),46.298806,7.460822,1427,,Switzerland,6,Operational,Operational,CHE NMHS 
+"BLATTEN, LOETSCHENTAL",0-20000-0-06725,06725,Land (fixed),46.420453,7.823197,1538,,Switzerland,6,Operational,Operational,CHE NMHS 
+PLAINE MORTE,0-20000-0-06726,06726,Land (fixed),46.3705555556,7.4866666667,2937,,Switzerland,6,Operational,Unknown,
+VISP,0-20000-0-06727,06727,Land (fixed),46.3029,7.842964,639,,Switzerland,6,Operational,Operational,CHE NMHS 
+GRAECHEN,0-20000-0-06728,06728,Land (fixed),46.195319,7.836828,1605,,Switzerland,6,Operational,Operational,CHE NMHS 
+EGGISHORN,0-20000-0-06739,06739,Land (fixed),46.426533,8.092728,2893,,Switzerland,6,Operational,Operational,CHE NMHS 
+ZERMATT,0-20000-0-06748,06748,Land (fixed),46.029275,7.752444,1638.35,,Switzerland,6,Operational,Operational,CHE NMHS 
+GORNERGRAT,0-20000-0-06749,06749,Land (fixed),45.983636,7.78575,3129,,Switzerland,6,Operational,Operational,CHE NMHS 
+ROBIEI,0-20000-0-06751,06751,Land (fixed),46.443069,8.513386,1896.36,,Switzerland,6,Operational,Operational,CHE NMHS 
+CEVIO,0-20000-0-06752,06752,Land (fixed),46.320494,8.603161,417,,Switzerland,6,Operational,Operational,CHE NMHS 
+MATRO,0-20000-0-06754,06754,Land (fixed),46.410108,8.924736,2171,,Switzerland,6,Operational,Operational,CHE NMHS 
+ACQUAROSSA / COMPROVASCO,0-20000-0-06756,06756,Land (fixed),46.459522,8.935481,575.32,,Switzerland,6,Operational,Operational,CHE NMHS 
+GRONO,0-20000-0-06758,06758,Land (fixed),46.255083,9.16375,323.52,,Switzerland,6,Operational,Operational,CHE NMHS 
+CIMETTA,0-20000-0-06759,06759,Land (fixed),46.200475,8.79165,1661,,Switzerland,6,Operational,Operational,CHE NMHS 
+LOCARNO / MONTI,0-20000-0-06760,06760,Land (fixed),46.172494,8.787569,366.75,,Switzerland,6,Operational,Operational,CHE NMHS 
+MAGADINO / CADENAZZO,0-20000-0-06762,06762,Land (fixed),46.160031,8.933667,203.2,,Switzerland,6,Operational,Operational,CHE NMHS 
+MONTE LEMA,0-20000-0-06768,06768,Land (fixed),46.0408333333,8.8333333333,1625,,Switzerland,6,Operational,Unknown,
+LUGANO,0-20000-0-06770,06770,Land (fixed),46.004228,8.960319,273,,Switzerland,6,Operational,Operational,CHE NMHS 
+STABIO,0-20000-0-06771,06771,Land (fixed),45.843458,8.932364,353,,Switzerland,6,Operational,Operational,CHE NMHS 
+LUGANO-AGNO,0-20000-0-06775,06775,Land (fixed),46.0005555556,8.9091666667,279,,Switzerland,6,Operational,Unknown,
+MONTE GENEROSO,0-20000-0-06777,06777,Land (fixed),45.927606,9.017872,1600.4,,Switzerland,6,Operational,Operational,CHE NMHS 
+SEGL-MARIA,0-20000-0-06779,06779,Land (fixed),46.432333,9.762311,1804,,Switzerland,6,Operational,Operational,CHE NMHS 
+VICOSOPRANO,0-20000-0-06788,06788,Land (fixed),46.353022,9.627789,1089,,Switzerland,6,Operational,Operational,CHE NMHS 
+PIZ CORVATSCH,0-20000-0-06791,06791,Land (fixed),46.418019,9.821242,3302.46,,Switzerland,6,Operational,Operational,CHE NMHS 
+POSCHIAVO / ROBBIA,0-20000-0-06794,06794,Land (fixed),46.347219,10.063011,1078,,Switzerland,6,Operational,Operational,CHE NMHS 
+PASSO DEL BERNINA,0-20000-0-06797,06797,Land (fixed),46.409161,10.01955,2260,,Switzerland,6,Operational,Operational,CHE NMHS 
+SION (6802-0),0-20000-0-06802,06802,Land (fixed),46.2219444444,7.3388888889,483,,Switzerland,6,Operational,Unknown,
+MAGADINO,0-20000-0-06808,06808,Land (fixed),46.164833,8.874369,198,,Switzerland,6,Operational,Unknown,CHE NMHS 
+LODRINO,0-20000-0-06809,06809,Land (fixed),46.295,8.9933333333,259,,Switzerland,6,Operational,Unknown,
+TABARKA,0-20000-0-60710,60710,Land (fixed),36.97605,8.876058,20,,Tunisia,1,Operational,Operational,saoussen CHERIAA
+BIZERTE,0-20000-0-60714,60714,Land (fixed),37.25,9.8,5,,Tunisia,1,Operational,Operational,saoussen CHERIAA
+TUNIS-CARTHAGE,0-20000-0-60715,60715,Land (fixed),36.8507,10.2147,4,,Tunisia,1,Operational,Operational,Ercan Buyukbas
+KELIBIA,0-20000-0-60720,60720,Land (fixed),36.85,11.0833333333,29,,Tunisia,1,Operational,Partly operational,saoussen CHERIAA
+BEJA (60723-0),0-20000-0-60723,60723,Land (fixed),36.7357,9.226,158,,Tunisia,1,Operational,Operational,TUN NMHS
+JENDOUBA,0-20000-0-60725,60725,Land (fixed),36.488,8.791,143,,Tunisia,1,Operational,Partly operational,saoussen CHERIAA
+NABEUL,0-20000-0-60728,60728,Land (fixed),36.4666666667,10.7,,,Tunisia,1,Operational,Partly operational,TUN NMHS
+ZAGHOUAN,0-20000-0-60729,60729,Land (fixed),36.4333333333,10.0833333333,,,Tunisia,1,Operational,Operational,TUN NMHS
+ENFIDHA,0-20000-0-60731,60731,Land (fixed),36.0666666667,10.45,,,Tunisia,1,Operational,Operational,TUN NMHS
+LE KEF,0-20000-0-60732,60732,Land (fixed),36.123,8.724,518,,Tunisia,1,Operational,Partly operational,saoussen CHERIAA
+SILIANA,0-20000-0-60734,60734,Land (fixed),36.054,9.404,443,,Tunisia,1,Operational,Partly operational,saoussen CHERIAA
+KAIROUAN,0-20000-0-60735,60735,Land (fixed),35.6666666667,10.1,60,,Tunisia,1,Operational,Operational,TUN NMHS
+THALA,0-20000-0-60738,60738,Land (fixed),35.56111,8.68778,1091,,Tunisia,1,Operational,Operational,saoussen CHERIAA
+KASSERINE,0-20000-0-60739,60739,Land (fixed),35.16833,8.79139,707,,Tunisia,1,Operational,Operational,TUN NMHS
+MONASTIR-SKANES,0-20000-0-60740,60740,Land (fixed),35.7624,10.7575,2,,Tunisia,1,Operational,Operational,saoussen CHERIAA
+MAHDIA,0-20000-0-60742,60742,Land (fixed),35.5,11.0666666667,,,Tunisia,1,Operational,Operational,saoussen CHERIAA
+GAFSA,0-20000-0-60745,60745,Land (fixed),34.4166666667,8.8166666667,313,,Tunisia,1,Operational,Operational,TUN NMHS
+SIDI BOUZID,0-20000-0-60748,60748,Land (fixed),35.01222,9.48583,354,,Tunisia,1,Operational,Partly operational,saoussen CHERIAA
+SFAX EL-MAOU,0-20000-0-60750,60750,Land (fixed),34.7166666667,10.6833333333,21,,Tunisia,1,Operational,Operational,TUN NMHS
+TOZEUR,0-20000-0-60760,60760,Land (fixed),33.9166666667,8.1666666667,86,,Tunisia,1,Operational,Operational,saoussen CHERIAA
+KEBILI,0-20000-0-60764,60764,Land (fixed),33.7,8.9666666667,44,,Tunisia,1,Operational,Operational,TUN NMHS
+GABES,0-20000-0-60765,60765,Land (fixed),33.883389,10.10694,4,,Tunisia,1,Operational,Operational,saoussen CHERIAA
+GABES MATMATA,0-20000-0-60767,60767,Land (fixed),33.739444,9.9166666,120,,Tunisia,1,Operational,Operational,TUN NMHS
+DJERBA MELLITA,0-20000-0-60769,60769,Land (fixed),33.8666666667,10.7666666667,3,,Tunisia,1,Operational,Partly operational,saoussen CHERIAA
+MEDENINE,0-20000-0-60770,60770,Land (fixed),33.32959,10.48817,116,,Tunisia,1,Operational,Operational,saoussen CHERIAA
+TATAOUINE,0-20000-0-60772,60772,Land (fixed),32.957706,10.467102,215,,Tunisia,1,Operational,Unknown,saoussen CHERIAA
+REMADA,0-20000-0-60775,60775,Land (fixed),32.3166666667,10.4,300,,Tunisia,1,Operational,Partly operational,saoussen CHERIAA
+EL BORMA,0-20000-0-60780,60780,Land (fixed),31.6833333333,9.3,258,,Tunisia,1,Operational,Partly operational,TUN NMHS
